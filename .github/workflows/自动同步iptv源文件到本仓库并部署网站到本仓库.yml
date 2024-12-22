@@ -52,22 +52,16 @@ jobs:
           # 覆盖同名文件（无需额外检查）
           mv temp/ipv6.m3u $TARGET_FILE
 
-      # Step 4: 检查是否有更改
-      - name: Check for changes
-        run: |
-          git add fanmingming/
-          git diff --cached --exit-code || echo "Changes detected"
-
-      # Step 5: 提交并推送更改
+      # Step 4: 提交并推送更改
       - name: Commit and push changes
-        if: success() # 如果有更改，执行推送
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git commit -m "Update ipv6.m3u in fanmingming folder"
+          git add fanmingming/
+          git commit -m "Update ipv6.m3u in fanmingming folder" || echo "No changes to commit"
           git push origin main
 
       # 部署页面 
