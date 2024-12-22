@@ -63,6 +63,14 @@ jobs:
           git commit -m "Update ipv6.m3u in fanmingming folder"
           git push origin main
 
+      # 部署页面 
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./
+
   # 部署工作
   deploy:
     environment:
