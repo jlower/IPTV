@@ -1,0 +1,75 @@
+# 构建 VitePress 站点并将其部署到 GitHub Pages 的示例工作流程
+
+name: Deploy Home Pages
+
+on:
+  # 在针对 `main` 分支的推送上运行。如果您
+  # 使用 `master` 分支作为默认分支，请将其更改为 `master`
+  # push:
+  #   branches: [main]
+  schedule:
+    # 设置启动时间，为 UTC 时间, UTC 2点 对应 北京时间早上 10 点
+    - cron : '58 01 * * *'
+  # 允许您从 Actions 选项卡手动运行此工作流程
+  workflow_dispatch:
+
+# 设置 GITHUB_TOKEN 的权限，以允许部署到 GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 只允许同时进行一次部署，跳过正在运行和最新队列之间的运行队列
+# 但是，不要取消正在进行的运行，因为我们希望允许这些生产部署完成
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  # 构建工作
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: 克隆自己的仓库
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: 下载文件
+      - name: Download file
+        run: |
+          mkdir -p temp
+          wget -O temp/ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+
+      # Step 3: 移动文件到 fanmingming 文件夹（自动创建或覆盖）
+      - name: Move file to folder
+        run: |
+          TARGET_FOLDER=fanmingming
+          TARGET_FILE=$TARGET_FOLDER/ipv6.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/ipv6.m3u $TARGET_FILE
+
+      # Step 4: 提交更改并推送到 main 分支
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add fanmingming/
+          git commit -m "Update ipv6.m3u in fanmingming folder"
+          git push origin main
+
+  # 部署工作
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    name: Deploy
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
