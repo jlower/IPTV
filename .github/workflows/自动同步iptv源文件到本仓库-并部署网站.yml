@@ -13,9 +13,9 @@ on:
   # 允许您从 Actions 选项卡手动运行此工作流程
   workflow_dispatch:
 
-# 设置 GITHUB_TOKEN 的权限，以允许部署到 GitHub Pages
+# 设置 GITHUB_TOKEN 的权限，以允许部署到 GitHub Pages 并允许更改储存库
 permissions:
-  contents: read
+  contents: write # 允许更改储存库
   pages: write
   id-token: write
 
