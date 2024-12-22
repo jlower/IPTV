@@ -1,6 +1,6 @@
 # 构建 VitePress 站点并将其部署到 GitHub Pages 的示例工作流程
 
-name: Deploy Home Pages
+name: Deploy IPTV Home Pages
 
 on:
   # 在针对 `main` 分支的推送上运行。如果您
@@ -52,19 +52,13 @@ jobs:
           # 覆盖同名文件（无需额外检查）
           mv temp/ipv6.m3u $TARGET_FILE
 
-      # Step 4: 提交更改并推送到 main 分支
+      # Step 4: 提交并推送更改
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
-          
-          git add fanmingming/
-          git commit -m "Update ipv6.m3u in fanmingming folder"
-          git push origin main
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          commit_message: "Update ipv6.m3u in fanmingming folder"
 
   # 部署工作
   deploy:
