@@ -121,9 +121,11 @@ jobs:
           git commit -m "Update in folder" || echo "No changes to commit"
           git push origin main
 
-      # 复制 README.md 为 index.md
-      - name: Copy README.md to index.md
-        run: cp README.md index.md
+      # 使用 Pandoc 将 README.md 转换为 index.html
+      - name: Convert README.md to index.html
+        run: |
+          sudo apt-get install pandoc
+          pandoc README.md -f markdown -t html -s -o index.html
 
       # 部署页面
       - name: Setup Pages
