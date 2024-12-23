@@ -125,7 +125,7 @@ jobs:
       - name: Convert README.md to index.html
         run: |
           sudo apt-get install pandoc
-          pandoc README.md -f markdown -t html -s -o index.html
+          pandoc README.md -f markdown -t html -s -o index.html --metadata title="IPTV"
 
       # 部署页面
       - name: Setup Pages
