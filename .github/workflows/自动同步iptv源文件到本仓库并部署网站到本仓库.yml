@@ -36,10 +36,9 @@ jobs:
 
       # Step 2: 下载文件
       - name: Download file
-        continue-on-error: true
         run: |
           mkdir -p temp
-          wgt --retry-connrefused  -O temp/fanmingming-ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+          wget --retry-connrefused  -O temp/fanmingming-ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
           wget --retry-connrefused  -O temp/YanG-1989-Gather.m3u https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
           wget --retry-connrefused  -O temp/iptv-org-index.m3u https://iptv-org.github.io/iptv/index.m3u
           wget --retry-connrefused  -O temp/joevess-iptv_sources.m3u8 https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8
@@ -47,7 +46,6 @@ jobs:
 
       # Step 3: 移动文件到 fanmingming 文件夹（自动创建或覆盖）
       - name: Move file to folder fanmingming
-        continue-on-error: true
         run: |
           TARGET_FOLDER=fanmingming
           TARGET_FILE=$TARGET_FOLDER/ipv6.m3u
@@ -60,7 +58,6 @@ jobs:
 
       # Step 3: 移动文件到 YanG-1989 文件夹（自动创建或覆盖）
       - name: Move file to folder YanG-1989
-        continue-on-error: true
         run: |
           TARGET_FOLDER=YanG-1989
           TARGET_FILE=$TARGET_FOLDER/Gather.m3u
@@ -73,7 +70,6 @@ jobs:
 
       # Step 3: 移动文件到 iptv-org 文件夹（自动创建或覆盖）
       - name: Move file to folder iptv-org
-        continue-on-error: true
         run: |
           TARGET_FOLDER=iptv-org
           TARGET_FILE=$TARGET_FOLDER/index.m3u
@@ -86,7 +82,6 @@ jobs:
 
       # Step 3: 移动文件到 joevess 文件夹（自动创建或覆盖）
       - name: Move file to folder joevess
-        continue-on-error: true
         run: |
           TARGET_FOLDER=joevess
           TARGET_FILE=$TARGET_FOLDER/iptv_sources.m3u8
@@ -99,7 +94,6 @@ jobs:
 
       # Step 3: 移动文件到 YueChan 文件夹（自动创建或覆盖）
       - name: Move file to folder YueChan
-        continue-on-error: true
         run: |
           TARGET_FOLDER=YueChan
           TARGET_FILE=$TARGET_FOLDER/APTV.m3u
