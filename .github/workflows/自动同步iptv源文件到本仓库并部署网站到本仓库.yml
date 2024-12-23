@@ -38,10 +38,14 @@ jobs:
       - name: Download file
         run: |
           mkdir -p temp
-          wget -O temp/ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+          wget -O temp/fanmingming-ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+          wget -O temp/YanG-1989-Gather.m3u https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+          wegt -O temp/iptv-org-index.m3u https://iptv-org.github.io/iptv/index.m3u
+          wegt -O temp/joevess-iptv_sources.m3u8 https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8
+          wegt -O temp/YueChan-APTV.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
 
       # Step 3: 移动文件到 fanmingming 文件夹（自动创建或覆盖）
-      - name: Move file to folder
+      - name: Move file to folder fanmingming
         run: |
           TARGET_FOLDER=fanmingming
           TARGET_FILE=$TARGET_FOLDER/ipv6.m3u
@@ -50,7 +54,55 @@ jobs:
           mkdir -p $TARGET_FOLDER
 
           # 覆盖同名文件（无需额外检查）
-          mv temp/ipv6.m3u $TARGET_FILE
+          mv temp/fanmingming-ipv6.m3u $TARGET_FILE
+
+      # Step 3: 移动文件到 YanG-1989 文件夹（自动创建或覆盖）
+      - name: Move file to folder YanG-1989
+        run: |
+          TARGET_FOLDER=YanG-1989
+          TARGET_FILE=$TARGET_FOLDER/Gather.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/YanG-1989-Gather.m3u $TARGET_FILE
+
+      # Step 3: 移动文件到 iptv-org 文件夹（自动创建或覆盖）
+      - name: Move file to folder iptv-org
+        run: |
+          TARGET_FOLDER=iptv-org
+          TARGET_FILE=$TARGET_FOLDER/index.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/iptv-org-index.m3u $TARGET_FILE
+
+      # Step 3: 移动文件到 joevess 文件夹（自动创建或覆盖）
+      - name: Move file to folder joevess
+        run: |
+          TARGET_FOLDER=joevess
+          TARGET_FILE=$TARGET_FOLDER/iptv_sources.m3u8
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/joevess-iptv_sources.m3u8 $TARGET_FILE
+
+      # Step 3: 移动文件到 YueChan 文件夹（自动创建或覆盖）
+      - name: Move file to folder YueChan
+        run: |
+          TARGET_FOLDER=YueChan
+          TARGET_FILE=$TARGET_FOLDER/APTV.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/YueChan-APTV.m3u $TARGET_FILE
 
       # Step 4: 提交并推送更改
       - name: Commit and push changes
@@ -61,7 +113,12 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           git add fanmingming/
-          git commit -m "Update ipv6.m3u in fanmingming folder" || echo "No changes to commit"
+          git add YanG-1989/
+          git add iptv-org/
+          git add joevess/
+          git add YueChan/
+
+          git commit -m "Update in folder" || echo "No changes to commit"
           git push origin main
 
       # 部署页面 
