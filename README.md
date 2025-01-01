@@ -1,4 +1,4 @@
-# IPTV
+# [IPTV](https://github.com/jlower/IPTV)
 
 ## [YanG-1989 m3u直播源](https://github.com/YanG-1989/m3u)
 
