@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="央视",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
-http://112.123.206.32:808/hls/2/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
@@ -81,18 +81,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 group-title="卫视",甘肃卫视
-http://61.173.144.157:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
-#EXTINF:-1 group-title="卫视",山西卫视
-http://59.48.75.130:3052/tsfile/live/1002_1.m3u8
-#EXTINF:-1 group-title="数字",CCTV4K
-http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="数字",南国都市
-http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-#EXTINF:-1 group-title="数字",中国教育
-http://121.19.134.80:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="数字",纪实科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 group-title="数字",东北热剧
@@ -207,19 +197,5 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9
 https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 #EXTINF:-1 group-title="地方",包头闻综
 https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-#EXTINF:-1 group-title="地方",赤峰新综
-https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-#EXTINF:-1 group-title="地方",新闻综合
-http://61.173.144.157:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="地方",上海教育
-http://61.173.144.157:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF1%E3%80%8F
-#EXTINF:-1 group-title="地方",东方影视
-http://223.166.234.9:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF11%E3%80%8F
-#EXTINF:-1 group-title="地方",东方财经
-http://223.166.234.9:7777/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF12%E3%80%8F
-#EXTINF:-1 group-title="地方",五星体育
-http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF14%E3%80%8F
-#EXTINF:-1 group-title="地方",第一财经
-http://223.166.234.9:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF10%E3%80%8F
-#EXTINF:-1 group-title="地方",广东体育
-http://219.159.194.244:8181/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="地方",南国都市
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
