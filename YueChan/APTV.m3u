@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="央视",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+http://223.166.234.9:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视",CCTV3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
