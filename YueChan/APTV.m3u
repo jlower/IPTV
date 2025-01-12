@@ -85,8 +85,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 #EXTINF:-1 group-title="卫视",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-#EXTINF:-1 group-title="卫视",新疆卫视
-https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1736508589-2-2-c897ec053e7d486ad9c702d7542624ac
 #EXTINF:-1 group-title="数字",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="数字",金砖英文
