@@ -43,6 +43,9 @@ jobs:
           wget --retry-connrefused  -O temp/iptv-org-index.m3u https://iptv-org.github.io/iptv/index.m3u
           wget --retry-connrefused  -O temp/joevess-iptv_sources.m3u8 https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8
           wget --retry-connrefused  -O temp/YueChan-APTV.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
+          wget --retry-connrefused  -O temp/Guovin-result.m3u https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+          wget --retry-connrefused  -O temp/vbskycn-iptv4.m3u https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+          wget --retry-connrefused  -O temp/vbskycn-iptv6.m3u https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
 
       # Step 3: 移动文件到 fanmingming 文件夹（自动创建或覆盖）
       - name: Move file to folder fanmingming
@@ -104,6 +107,35 @@ jobs:
           # 覆盖同名文件（无需额外检查）
           mv temp/YueChan-APTV.m3u $TARGET_FILE
 
+      # Step 3: 移动文件到 Guovin 文件夹（自动创建或覆盖）
+      - name: Move file to folder Guovin
+        run: |
+          TARGET_FOLDER=Guovin
+          TARGET_FILE=$TARGET_FOLDER/result.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/Guovin-result.m3u $TARGET_FILE
+
+      # Step 3: 移动文件到 vbskycn 文件夹（自动创建或覆盖）
+      - name: Move file to folder vbskycn
+        run: |
+          TARGET_FOLDER=vbskycn
+          TARGET_FILE=$TARGET_FOLDER/iptv4.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/vbskycn-iptv4.m3u $TARGET_FILE
+
+          TARGET_FILE=$TARGET_FOLDER/iptv6.m3u
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/vbskycn-iptv6.m3u $TARGET_FILE
+
       # Step 4: 提交并推送更改
       - name: Commit and push changes
         env:
@@ -117,6 +149,9 @@ jobs:
           git add iptv-org/
           git add joevess/
           git add YueChan/
+          git add Guovin/
+          git add vbskycn/
+          
 
           git commit -m "Update in folder" || echo "No changes to commit"
           git push origin main

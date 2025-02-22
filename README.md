@@ -32,6 +32,22 @@
 > 
 > [YueChan APTV 自加速](https://iptv.lowoneko.eu.org/YueChan/APTV.m3u) : https://iptv.lowoneko.eu.org/YueChan/APTV.m3u
 
+## [Guovin IPTV源](https://github.com/Guovin/iptv-api)
+
+> [Guovin 接口源 源码](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u) : https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+> 
+> [Guovin 接口源 自加速](https://iptv.lowoneko.eu.org/Guovin/result.m3u) : https://iptv.lowoneko.eu.org/Guovin/result.m3u
+
+## [vbskycn IPTV源](https://github.com/vbskycn/iptv)
+
+> [vbskycn 自动扫描直播源 IPTV6 源码](https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u) : https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
+> 
+> [vbskycn 自动扫描直播源 IPTV4 源码](https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u) : https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+> 
+> [vbskycn 自动扫描直播源 IPTV6 自加速](https://iptv.lowoneko.eu.org/vbskycn/iptv6.m3u) : https://iptv.lowoneko.eu.org/vbskycn/iptv6.m3u
+> 
+> [vbskycn 自动扫描直播源 IPTV4 自加速](https://iptv.lowoneko.eu.org/vbskycn/iptv4.m3u) : https://iptv.lowoneko.eu.org/vbskycn/iptv4.m3u
+
 ## [iptv-org 项目](https://github.com/iptv-org/iptv)
 
 > [iptv-org 项目全量 源码](https://iptv-org.github.io/iptv/index.m3u) : https://iptv-org.github.io/iptv/index.m3u
