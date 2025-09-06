@@ -6,13 +6,15 @@
 > 
 > [**`电视直播精简版 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/Gather.m3u) : https://iptv.lowoneko.eu.org/YanG-1989/Gather.m3u
 > 
-> [**`电视直播`**](https://tv.iill.top/m3u/Gather) : https://tv.iill.top/m3u/Gather
+> [**`电视直播`**](https://tv-1.iill.top/m3u/Gather) : https://tv-1.iill.top/m3u/Gather
 > 
-> [**`体育直播`**](https://tv.iill.top/m3u/Sport) : https://tv.iill.top/m3u/Sport
+> [**`体育直播`**](https://tv-1.iill.top/m3u/Sport) : https://tv-1.iill.top/m3u/Sport
 > 
-> [**`网络直播`**](https://tv.iill.top/m3u/Live) : https://tv.iill.top/m3u/Live
+> [**`网络直播`**](https://tv-1.iill.top/m3u/Live) : https://tv-1.iill.top/m3u/Live
 > 
-> [**`MyTV直播`**](https://tv.iill.top/m3u/MyTV) : https://tv.iill.top/m3u/MyTV
+> [**`MyTV直播`**](https://tv-1.iill.top/m3u/MyTV) : https://tv-1.iill.top/m3u/MyTV
+>
+> [**`影视JSON`**](https://tv-1.iill.top/json/Gather) : https://tv-1.iill.top/json/Gather
 
 ## [fanmingming IPTV源](https://github.com/fanmingming/live)
 
