@@ -8,8 +8,9 @@ on:
   # push:
   #   branches: [main]
   schedule:
-    # 设置启动时间，为 UTC 时间, UTC 2点 对应 北京时间早上 10 点
-    - cron : '58 01 * * *'
+    # 设置启动时间，为 UTC 时间, UTC 2 点 对应 北京时间早上 10 点
+    # 每天执行 4 次
+    - cron : '58 00/6 * * *'
   # 允许您从 Actions 选项卡手动运行此工作流程
   workflow_dispatch:
 
