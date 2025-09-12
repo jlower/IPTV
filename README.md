@@ -4,17 +4,27 @@
 
 > [**`电视直播精简版 源码`**](https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u) : https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 > 
-> [**`电视直播精简版 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/Gather.m3u) : https://iptv.lowoneko.eu.org/YanG-1989/Gather.m3u
+> [**`电视直播精简版 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/Gather-simple.m3u) : https://iptv.lowoneko.eu.org/YanG-1989/Gather-simple.m3u
 > 
 > [**`电视直播`**](https://tv.iill.top/m3u/Gather) : https://tv.iill.top/m3u/Gather
+>
+> [**`电视直播 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/Gather.m3u) : https://iptv.lowoneko.eu.org/YanG-1989/Gather.m3u
 > 
 > [**`体育直播`**](https://tv.iill.top/m3u/Sport) : https://tv.iill.top/m3u/Sport
+>
+> [**`体育直播 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/Sport.m3u) : https://iptv.lowoneko.eu.org/YanG-1989/Sport.m3u
 > 
 > [**`网络直播`**](https://tv.iill.top/m3u/Live) : https://tv.iill.top/m3u/Live
+>
+> [**`网络直播 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/Live.m3u) : https://iptv.lowoneko.eu.org/YanG-1989/Live.m3u
 > 
 > [**`MyTV直播`**](https://tv.iill.top/m3u/MyTV) : https://tv.iill.top/m3u/MyTV
 >
+> [**`MyTV直播 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/MyTV.m3u) : https://iptv.lowoneko.eu.org/YanG-1989/MyTV.m3u
+> 
 > [**`影视JSON`**](https://tv.iill.top/json/Gather) : https://tv.iill.top/json/Gather
+>
+> [**`影视JSON 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/Gather-movie.m3u) : https://iptv.lowoneko.eu.org/YanG-1989/Gather-movie.m3u
 
 ## [fanmingming IPTV源](https://github.com/fanmingming/live)
 
