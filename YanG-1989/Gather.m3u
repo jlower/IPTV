@@ -121,108 +121,150 @@ https://tv.iill.top/migu/xdll
 https://tv.iill.top/migu/qtj
 
 #INSERT_HERE
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」19:30 联赛 阿森纳 vs 诺丁汉森林 [詹俊 张路 程思钦]
+https://tv.iill.top/FB/CZ15cl
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」19:30 联赛 阿森纳 vs 诺丁汉森林 [英文解说]
+https://tv.iill.top/FB/U1k3p3
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」19:30 联赛 阿森纳 vs 诺丁汉森林 [赛场原声]
+https://tv.iill.top/FB/kRaiCZ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」19:30 联赛 阿森纳 vs 诺丁汉森林 [球星视角]
+https://tv.iill.top/FB/VPP3Kk
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」19:30 联赛 阿森纳 vs 诺丁汉森林 [战术视角]
+https://tv.iill.top/FB/lDKPlb
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 纽卡斯尔联 vs 狼队 [吴桐]
+https://tv.iill.top/FB/gJFjbN
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 纽卡斯尔联 vs 狼队 [英文解说]
+https://tv.iill.top/FB/A5kKrw
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 纽卡斯尔联 vs 狼队 [赛场原声]
+https://tv.iill.top/FB/6On6YH
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 富勒姆 vs 利兹联 [黄航]
+https://tv.iill.top/FB/ZN75Ka
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 富勒姆 vs 利兹联 [英文解说]
+https://tv.iill.top/FB/02yiPg
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 富勒姆 vs 利兹联 [赛场原声]
+https://tv.iill.top/FB/dOjiPy
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 埃弗顿 vs 阿斯顿维拉 [刘焕]
+https://tv.iill.top/FB/Vsjve3
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 埃弗顿 vs 阿斯顿维拉 [英文解说]
+https://tv.iill.top/FB/EbqKCC
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 埃弗顿 vs 阿斯顿维拉 [赛场原声]
+https://tv.iill.top/FB/VdYJ6D
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 水晶宫 vs 桑德兰 [郭灿亮]
+https://tv.iill.top/FB/TCVVIZ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 水晶宫 vs 桑德兰 [英文解说]
+https://tv.iill.top/FB/ErANjp
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 水晶宫 vs 桑德兰 [赛场原声]
+https://tv.iill.top/FB/L9cHWG
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 伯恩茅斯 vs 布莱顿 [苗锟]
+https://tv.iill.top/FB/ruCx8E
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 伯恩茅斯 vs 布莱顿 [英文解说]
+https://tv.iill.top/FB/a4PlGY
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 伯恩茅斯 vs 布莱顿 [赛场原声]
+https://tv.iill.top/FB/jgIlWo
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTA」00:00 圣保罗站第五日：曾丽美晋级 玛雅爆冷出局
-https://tv.iill.top/Migu/NxFnyv
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTA」02:00 瓜达拉哈拉站第五日：奥斯塔彭科出局 玛利亚力争四强
-https://tv.iill.top/Migu/3QHCJD
+https://tv.iill.top/Migu/r3HGoS
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTA」02:00 瓜达拉哈拉站第五日：奥胖、玛利亚出局 阿朗戈冲四强
+https://tv.iill.top/Migu/K6MYDG
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」12:00 澳门冠军赛：男女单打1/4决赛 王楚钦迎战林昀儒 陈幸同出战 [小马哥]
-https://tv.iill.top/Migu/4BDHCL
+https://tv.iill.top/Migu/SnofeN
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」12:00 澳门冠军赛：男女单打1/4决赛 王楚钦迎战林昀儒 陈幸同出战 [赛场原声]
-https://tv.iill.top/Migu/Ur5nvz
+https://tv.iill.top/Migu/hWWdFy
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」12:00 澳门冠军赛：男女单打1/4决赛 王楚钦迎战林昀儒 陈幸同出战 [英文解说]
-https://tv.iill.top/Migu/rgoDz9
+https://tv.iill.top/Migu/LJeGLZ
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际射联世界杯」12:30 2025宁波站 10米气手枪决赛
-https://tv.iill.top/Migu/6ZB6NC
+https://tv.iill.top/Migu/agH0w2
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「EA SPORT FC Pro 冠军杯」14:00 EA SPORT FC Pro 足球世界挑战赛 EA SPORT FC Pro 足球世界挑战赛第一比赛日
-https://tv.iill.top/Migu/qKaJT7
+https://tv.iill.top/Migu/YJTaKf
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「全国女子篮球锦标赛」14:30 江苏南钢vs合肥文旅
-https://tv.iill.top/Migu/a0kHAy
+https://tv.iill.top/Migu/7yHgCJ
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「全国女子篮球锦标赛」14:30 山西竹叶青酒vs赣州赣星
-https://tv.iill.top/Migu/XlHbKs
+https://tv.iill.top/Migu/r6eYf8
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际射联世界杯」14:30 2025宁波站 25米手枪速射决赛
-https://tv.iill.top/Migu/MHsJnK
+https://tv.iill.top/Migu/fmKVRx
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中乙」16:00 联赛 山西崇德荣海vs武汉三镇B队
-https://tv.iill.top/Migu/t0ly1z
+https://tv.iill.top/Migu/ttPjA0
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中乙」16:00 联赛 昆明城星vs泰安天贶
-https://tv.iill.top/Migu/Z3R5rY
+https://tv.iill.top/Migu/4HWzbc
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「广东省城市足球超级联赛」16:00 梅州强民VS阳江西海岸
-https://tv.iill.top/Migu/qjTWbE
+https://tv.iill.top/Migu/sIMzRd
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「广东省城市足球超级联赛」16:00 湛江锐虎VS河源乐里
-https://tv.iill.top/Migu/yXff2u
+https://tv.iill.top/Migu/WYBHy4
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「广东省城市足球超级联赛」16:00 深圳藝品高VS广东广州豹
-https://tv.iill.top/Migu/BDPlQj
+https://tv.iill.top/Migu/bNO5wK
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「ATP100」16:00 ATP广州黄埔站第四日：克里斯托弗/塞格尔曼迎战日本组合
+https://tv.iill.top/Migu/BNU6Qy
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中乙」16:30 联赛 湖北青年星vs温州俱乐部中胤
-https://tv.iill.top/Migu/F2tINm
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「LPL」17:00 WBG vs JDG
-https://tv.iill.top/Migu/y3USAp
+https://tv.iill.top/Migu/ofzUBI
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「LPL」16:30 WBG vs JDG
+https://tv.iill.top/Migu/DNri9P
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「全国女子篮球锦标赛」17:00 北京首钢vs陕西天泽
-https://tv.iill.top/Migu/AP7Xhz
+https://tv.iill.top/Migu/nUB9zM
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「全国女子篮球锦标赛」17:00 四川远达美乐vs厦门白鹭
-https://tv.iill.top/Migu/WZOI2h
+https://tv.iill.top/Migu/B5LMQh
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [1号桌]
-https://tv.iill.top/Migu/RaiJAC
+https://tv.iill.top/Migu/AXld79
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [朱峰立]
-https://tv.iill.top/Migu/XuYdNK
+https://tv.iill.top/Migu/Klaend
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [柏林]
-https://tv.iill.top/Migu/G0Z2me
+https://tv.iill.top/Migu/9HUiUE
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [2号桌]
-https://tv.iill.top/Migu/c0DQ5Y
+https://tv.iill.top/Migu/XQwLJL
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [3号桌]
-https://tv.iill.top/Migu/55X3GQ
+https://tv.iill.top/Migu/IMoCTT
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」17:00 2025英格兰公开赛：布雷切尔、范争一、傅家俊出战 [4号桌]
-https://tv.iill.top/Migu/wTXrq4
+https://tv.iill.top/Migu/kJlFGN
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「超三联赛」18:00 宁波赛区 淘汰赛及决赛 [李月擎]
-https://tv.iill.top/Migu/nQ8UVL
+https://tv.iill.top/Migu/OsdR8e
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」18:30 澳门冠军赛：男女单打1/4决赛 孙颖莎迎战迪亚兹 王曼昱冲4强 [小马哥]
-https://tv.iill.top/Migu/1g0aol
+https://tv.iill.top/Migu/xzz2yC
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」18:30 澳门冠军赛：男女单打1/4决赛 孙颖莎迎战迪亚兹 王曼昱冲4强 [赛场原声]
-https://tv.iill.top/Migu/xq3AW7
+https://tv.iill.top/Migu/7rA1IX
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」18:30 澳门冠军赛：男女单打1/4决赛 孙颖莎迎战迪亚兹 王曼昱冲4强 [英文解说]
-https://tv.iill.top/Migu/0xEhz5
+https://tv.iill.top/Migu/Y3smAH
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中乙」19:00 联赛 赣州瑞狮vs北京理工
-https://tv.iill.top/Migu/R2XEAp
+https://tv.iill.top/Migu/LwkllN
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「广东省城市足球超级联赛」19:00 深圳科宇盛达VS广东蜀地红
-https://tv.iill.top/Migu/51IopI
+https://tv.iill.top/Migu/Lq0SnU
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「广东省城市足球超级联赛」19:00 汕头抽象VS吴川青年
-https://tv.iill.top/Migu/tqMRfC
+https://tv.iill.top/Migu/ZQWwr3
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「广东省城市足球超级联赛」19:00 珠海聚杰VS南沙湾区青年
-https://tv.iill.top/Migu/juHFH1
+https://tv.iill.top/Migu/HwdiCR
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「武汉城市足球超级联赛」19:00 汉超第5轮 江岸区vs江汉区
-https://tv.iill.top/Migu/DbgM25
+https://tv.iill.top/Migu/aZV4RW
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「江西省城市足球超级联赛」19:30 九江VS上饶
-https://tv.iill.top/Migu/P8xYIm
+https://tv.iill.top/Migu/IeJM15
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「江西省城市足球超级联赛」19:30 鹰潭VS景德镇
-https://tv.iill.top/Migu/LN6OX1
+https://tv.iill.top/Migu/daQ72Z
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「江西省城市足球超级联赛」19:30 新余VS萍乡
-https://tv.iill.top/Migu/QdZXZk
+https://tv.iill.top/Migu/5daTVp
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「江西省城市足球超级联赛」19:30 宜春VS吉安
-https://tv.iill.top/Migu/BE8JKv
+https://tv.iill.top/Migu/ZDdS6Y
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中乙」19:30 联赛 成都蓉城B队vs无锡吴钩
-https://tv.iill.top/Migu/cIRTwS
+https://tv.iill.top/Migu/gwGvnn
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中乙」19:30 联赛 海门珂缔缘vs深圳二零二八
-https://tv.iill.top/Migu/skznXT
+https://tv.iill.top/Migu/Era1ph
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「全国女子篮球锦标赛」19:30 武汉盛帆黄鹤vs山东赤水河酒
-https://tv.iill.top/Migu/vSDYxH
+https://tv.iill.top/Migu/EOJPUV
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「全国女子篮球锦标赛」19:30 石家庄英励vs黑龙江上东
-https://tv.iill.top/Migu/SC4qgW
+https://tv.iill.top/Migu/zvRtOU
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「浙江省城市篮球联赛城市争霸赛」19:30 嘉兴经开区VS台州
-https://tv.iill.top/Migu/xqkUpL
+https://tv.iill.top/Migu/QS2Nc8
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「浙江省城市篮球联赛城市争霸赛」19:30 舟山VS余姚
-https://tv.iill.top/Migu/YJbnkO
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「JCK」19:30 觉城之夜104：王绍祥VS夏明权 王绍祥VS夏明权二番战 海来尔克领衔联合主赛
-https://tv.iill.top/Migu/2CbR26
+https://tv.iill.top/Migu/bcsBQ8
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「JCK」19:30 觉城之夜104：王绍祥VS夏明权 王绍祥VS夏明权二番战 求伦梁娜出战
+https://tv.iill.top/Migu/XIhCDE
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「河南省女子排球城市联赛」19:30 开幕式
-https://tv.iill.top/Migu/6NQvbn
+https://tv.iill.top/Migu/JmSfA0
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「江苏城市足球联赛」19:35 常州队vs宿迁队
-https://tv.iill.top/Migu/lYWGxr
+https://tv.iill.top/Migu/TCwoKA
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「湖南省足球联赛」19:38 郴州vs常德
-https://tv.iill.top/Migu/Zhg4LZ
+https://tv.iill.top/Migu/pZhQf2
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「湖南省足球联赛」19:38 衡阳vs株洲
-https://tv.iill.top/Migu/ARARSk
+https://tv.iill.top/Migu/n8tEMx
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「湖南省足球联赛」19:38 湘西vs益阳
-https://tv.iill.top/Migu/acULTB
+https://tv.iill.top/Migu/XP8QCW
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「河南省女子排球城市联赛」20:30 揭幕战
-https://tv.iill.top/Migu/gi6Yls
+https://tv.iill.top/Migu/x8wn9u
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg-1.iill.top/logo/CCTV1.png" group-title="•央卫「海外」",CCTV 1 综合
 https://tv.iill.top/x/cctv1
