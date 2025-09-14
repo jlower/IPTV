@@ -14,7 +14,7 @@
 >
 > [**`体育直播 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/Sport.m3u) : https://iptv.lowoneko.eu.org/YanG-1989/Sport.m3u
 > 
-> [**`网络直播`**](https://m.iill.top/m3u/Live) : https://m.iill.top/m3u/Live
+> [**`网络直播`**](https://m.iill.top/Live.m3u) : https://m.iill.top/Live.m3u
 >
 > [**`网络直播 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/Live.m3u) : https://iptv.lowoneko.eu.org/YanG-1989/Live.m3u
 > 
