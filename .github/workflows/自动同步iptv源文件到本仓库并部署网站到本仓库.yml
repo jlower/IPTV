@@ -46,7 +46,7 @@ jobs:
           curl -x ${{ secrets.SOCKS5 }} --retry 7 --retry-delay 5 -C - -o temp/YanG-1989-Sport.m3u https://tv.iill.top/m3u/Sport
           curl -x ${{ secrets.SOCKS5 }} --retry 7 --retry-delay 5 -C - -o temp/YanG-1989-Live.m3u https://tv.iill.top/m3u/Live
           curl -x ${{ secrets.SOCKS5 }} --retry 7 --retry-delay 5 -C - -o temp/YanG-1989-MyTV.m3u https://tv.iill.top/m3u/MyTV
-          curl -x ${{ secrets.SOCKS5 }} --retry 7 --retry-delay 5 -C - -o temp/YanG-1989-Gather-movie.m3u https://tv.iill.top/json/Gather
+          curl -x ${{ secrets.SOCKS5 }} --retry 7 --retry-delay 5 -C - -o temp/YanG-1989-Gather-movie.json https://tv.iill.top/json/Gather
           
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/iptv-org-index.m3u https://iptv-org.github.io/iptv/index.m3u
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/joevess-iptv_sources.m3u8 https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8
@@ -131,13 +131,13 @@ jobs:
       - name: Move file to folder YanG-1989
         run: |
           TARGET_FOLDER=YanG-1989
-          TARGET_FILE=$TARGET_FOLDER/Gather-movie.m3u
+          TARGET_FILE=$TARGET_FOLDER/Gather-movie.json
 
           # 确保目标文件夹存在
           mkdir -p $TARGET_FOLDER
 
           # 覆盖同名文件（无需额外检查）
-          mv temp/YanG-1989-Gather-movie.m3u $TARGET_FILE 
+          mv temp/YanG-1989-Gather-movie.json $TARGET_FILE 
 
       # Step 3: 移动文件到 iptv-org 文件夹（自动创建或覆盖）
       - name: Move file to folder iptv-org
