@@ -1,9 +1,7 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",免費訂閲：請勿販賣...
-https://epg-1.iill.top/v/302.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2025-9-14 #佛系維護...
-https://epg-1.iill.top/v/301.mp4
-#EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",維護内容：維護 Live「更改訂閲地址 / 取消 YouTube 限制」
-https://epg-1.iill.top/v/301.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",訂閲地址：https://m.iill.top/Live.m3u
-https://epg-1.iill.top/v/302.mp4
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>openresty</center>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'97eff1ecf84c58d6',t:'MTc1Nzg1MzU0NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
