@@ -24,7 +24,7 @@
 > 
 > [**`影视JSON`**](https://tv.iill.top/json/Gather) : https://tv.iill.top/json/Gather
 >
-> [**`影视JSON 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/Gather-movie.m3u) : https://iptv.lowoneko.eu.org/YanG-1989/Gather-movie.m3u
+> [**`影视JSON 自加速`**](https://iptv.lowoneko.eu.org/YanG-1989/Gather-movie.json) : https://iptv.lowoneko.eu.org/YanG-1989/Gather-movie.json
 
 ## [fanmingming IPTV源](https://github.com/fanmingming/live)
 
