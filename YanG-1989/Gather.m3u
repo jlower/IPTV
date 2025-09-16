@@ -13,7 +13,6 @@ https://epg-1.iill.top/v/302.mp4
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/FashionTV.png" group-title="•4K「IPV4」",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg-1.iill.top/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合「回看」
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg-1.iill.top/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经「回看」
@@ -96,7 +95,7 @@ https://tv.iill.top/migu/hkdy
 https://tv.iill.top/migu/kzjd
 #EXTINF:-1 tvg-id="血色山河·抗日战争影像志" tvg-name="血色山河·抗日战争影像志" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",血色山河·抗日战争影像志「回看」
 https://tv.iill.top/migu/xssh
-#EXTINF:-1 tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",咪咕24小时体育「回看」
+#EXTINF:-1 tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",咪咕24小时体育「回看」
 https://tv.iill.top/migu/mgty
 #EXTINF:-1 tvg-id="五环传奇" tvg-name="五环传奇" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",五环传奇「回看」
 https://tv.iill.top/migu/whcq
@@ -106,7 +105,7 @@ https://tv.iill.top/migu/sszjd
 https://tv.iill.top/migu/gdjs
 #EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",体坛名栏汇「回看」
 https://tv.iill.top/migu/ttmh
-#EXTINF:-1 tvg-id="和美乡途轮播" tvg-name="和美乡途轮播" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",和美乡途轮播「回看」
+#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",和美乡途轮播「回看」
 https://tv.iill.top/migu/hmxt
 #EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",最强综艺趴「回看」
 https://tv.iill.top/migu/zqzyp
@@ -2668,5 +2667,5 @@ https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 https://epg-1.iill.top/v/302.mp4
 #EXTINF:-1 tvg-id="MPD" tvg-name="MPD" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•myTV「请到GitHub获取」",仅支持安卓·不懂问ChatGPT
 https://epg-1.iill.top/v/301.mp4
-#EXTINF:-1 tvg-id="MPD" tvg-name="MPD" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="---------------------------",https://github.com/YanG-1989
-https://epg-1.iill.top/v/302.mp4
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="---------------------------",https://github.com/YanG-1989
+https://tv.iill.top/CGTN/cgtn
