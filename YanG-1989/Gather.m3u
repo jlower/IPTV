@@ -13,6 +13,7 @@ https://epg-1.iill.top/v/302.mp4
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/FashionTV.png" group-title="•4K「IPV4」",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg-1.iill.top/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合「回看」
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg-1.iill.top/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经「回看」
@@ -83,17 +84,17 @@ https://tv.iill.top/migu/shxw
 https://tv.iill.top/migu/shys
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg-1.iill.top/logo/影迷电影.png" group-title="•咪咕「TV」",CHC 影迷电影「回看」
 https://tv.iill.top/migu/chcym
-#EXTINF:-1 tvg-id="新片放映" tvg-name="新片放映" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",新片放映「回看」
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",新片放映「回看」
 https://tv.iill.top/migu/xpfy
 #EXTINF:-1 tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",高清大片「回看」
 https://tv.iill.top/migu/gqdp
-#EXTINF:-1 tvg-id="高能悬疑" tvg-name="高能悬疑" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",高能悬疑「回看」
+#EXTINF:-1 tvg-id="高能悬疑 推理时刻" tvg-name="高能悬疑 推理时刻" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",高能悬疑「回看」
 https://tv.iill.top/migu/gnxy
 #EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",经典香港电影「回看」
 https://tv.iill.top/migu/hkdy
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",抗战经典影片「回看」
 https://tv.iill.top/migu/kzjd
-#EXTINF:-1 tvg-id="红色轮播" tvg-name="红色轮播" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",血色山河·抗日战争影像志「回看」
+#EXTINF:-1 tvg-id="血色山河·抗日战争影像志" tvg-name="血色山河·抗日战争影像志" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",血色山河·抗日战争影像志「回看」
 https://tv.iill.top/migu/xssh
 #EXTINF:-1 tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",咪咕24小时体育「回看」
 https://tv.iill.top/migu/mgty
@@ -172,7 +173,7 @@ https://tv.iill.top/x/gxws
 https://tv.iill.top/x/szws
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg-1.iill.top/logo/四川卫视.png" group-title="•央卫「海外」",四川卫视 
 https://tv.iill.top/x/scws
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg-1.iill.top/logo/重庆卫视.png" group-title="•央卫「海外」"重庆卫视 
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg-1.iill.top/logo/重庆卫视.png" group-title="•央卫「海外」",重庆卫视
 https://tv.iill.top/x/cqws
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg-1.iill.top/logo/海南卫视.png" group-title="•央卫「海外」",海南卫视 
 https://tv.iill.top/x/hainws
