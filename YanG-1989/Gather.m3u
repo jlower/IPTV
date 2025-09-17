@@ -2667,5 +2667,5 @@ https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 https://epg-1.iill.top/v/302.mp4
 #EXTINF:-1 tvg-id="MPD" tvg-name="MPD" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•myTV「请到GitHub获取」",仅支持安卓·不懂问ChatGPT
 https://epg-1.iill.top/v/301.mp4
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="---------------------------",https://github.com/YanG-1989
-https://tv.iill.top/CGTN/cgtn
+#EXTINF:-1 tvg-id="MPD" tvg-name="MPD" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="---------------------------",https://github.com/YanG-1989
+https://epg-1.iill.top/v/302.mp4
