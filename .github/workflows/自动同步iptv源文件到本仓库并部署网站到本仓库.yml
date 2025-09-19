@@ -50,7 +50,12 @@ jobs:
           
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/iptv-org-index.m3u https://iptv-org.github.io/iptv/index.m3u
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/joevess-iptv_sources.m3u8 https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8
-          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/YueChan-APTV.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/YueChan-IPTV.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/YueChan-Hunan.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Hunan.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/YueChan-Adult.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/YueChan-GATV.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GATV.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/YueChan-Global.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/YueChan-Radio.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/Guovin-result.m3u https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/vbskycn-iptv4.m3u https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/vbskycn-iptv6.m3u https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
@@ -167,13 +172,73 @@ jobs:
       - name: Move file to folder YueChan
         run: |
           TARGET_FOLDER=YueChan
-          TARGET_FILE=$TARGET_FOLDER/APTV.m3u
+          TARGET_FILE=$TARGET_FOLDER/IPTV.m3u
 
           # 确保目标文件夹存在
           mkdir -p $TARGET_FOLDER
 
           # 覆盖同名文件（无需额外检查）
-          mv temp/YueChan-APTV.m3u $TARGET_FILE
+          mv temp/YueChan-IPTV.m3u $TARGET_FILE
+
+      # Step 3: 移动文件到 YueChan 文件夹（自动创建或覆盖）
+      - name: Move file to folder YueChan
+        run: |
+          TARGET_FOLDER=YueChan
+          TARGET_FILE=$TARGET_FOLDER/Hunan.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/YueChan-Hunan.m3u $TARGET_FILE
+
+      # Step 3: 移动文件到 YueChan 文件夹（自动创建或覆盖）
+      - name: Move file to folder YueChan
+        run: |
+          TARGET_FOLDER=YueChan
+          TARGET_FILE=$TARGET_FOLDER/Adult.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/YueChan-Adult.m3u $TARGET_FILE
+
+      # Step 3: 移动文件到 YueChan 文件夹（自动创建或覆盖）
+      - name: Move file to folder YueChan
+        run: |
+          TARGET_FOLDER=YueChan
+          TARGET_FILE=$TARGET_FOLDER/GATV.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/YueChan-GATV.m3u $TARGET_FILE
+
+      # Step 3: 移动文件到 YueChan 文件夹（自动创建或覆盖）
+      - name: Move file to folder YueChan
+        run: |
+          TARGET_FOLDER=YueChan
+          TARGET_FILE=$TARGET_FOLDER/Global.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/YueChan-Global.m3u $TARGET_FILE
+  
+      # Step 3: 移动文件到 YueChan 文件夹（自动创建或覆盖）
+      - name: Move file to folder YueChan
+        run: |
+          TARGET_FOLDER=YueChan
+          TARGET_FILE=$TARGET_FOLDER/Radio.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/YueChan-Radio.m3u $TARGET_FILE
 
       # Step 3: 移动文件到 Guovin 文件夹（自动创建或覆盖）
       - name: Move file to folder Guovin
