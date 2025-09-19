@@ -73,10 +73,10 @@
 ## [vbskycn IPTV源](https://github.com/vbskycn/iptv)
 
 > [**`vbskycn 自动扫描直播源 IPTV6 源码`**](https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u) : https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
+>
+> [**`vbskycn 自动扫描直播源 IPTV6 自加速`**](https://iptv.lowoneko.eu.org/vbskycn/iptv6.m3u) : https://iptv.lowoneko.eu.org/vbskycn/iptv6.m3u
 > 
 > [**`vbskycn 自动扫描直播源 IPTV4 源码`**](https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u) : https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-> 
-> [**`vbskycn 自动扫描直播源 IPTV6 自加速`**](https://iptv.lowoneko.eu.org/vbskycn/iptv6.m3u) : https://iptv.lowoneko.eu.org/vbskycn/iptv6.m3u
 > 
 > [**`vbskycn 自动扫描直播源 IPTV4 自加速`**](https://iptv.lowoneko.eu.org/vbskycn/iptv4.m3u) : https://iptv.lowoneko.eu.org/vbskycn/iptv4.m3u
 
