@@ -37,6 +37,7 @@ jobs:
 
       # Step 2: 下载文件
       - name: Download file
+        continue-on-error: true
         run: |
           mkdir -p temp
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/fanmingming-ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
