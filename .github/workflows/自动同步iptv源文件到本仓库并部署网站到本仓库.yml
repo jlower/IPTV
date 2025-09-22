@@ -40,7 +40,7 @@ jobs:
         run: |
           mkdir -p temp
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/fanmingming-ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
-          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/YanG-1989-Gather-simple.m3u https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/YanG-1989-Gather-simple.m3u https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather1.m3u
 
           curl -x ${{ secrets.SOCKS5 }} --retry 7 --retry-delay 5 -C - -o temp/YanG-1989-Gather.m3u https://tv.iill.top/m3u/Gather
           curl -x ${{ secrets.SOCKS5 }} --retry 7 --retry-delay 5 -C - -o temp/YanG-1989-Sport.m3u https://tv.iill.top/m3u/Sport
