@@ -52,9 +52,9 @@
 > 
 > [**`YueChan Adult 自加速`**](https://iptv.lowoneko.eu.org/YueChan/Adult.m3u) : https://iptv.lowoneko.eu.org/YueChan/Adult.m3u
 >
-> [**`YueChan GATV 源码`**](https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GATV.m3u) : https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GATV.m3u
+> [**`YueChan APTV 源码`**](https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u) : https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
 > 
-> [**`YueChan GATV 自加速`**](https://iptv.lowoneko.eu.org/YueChan/GATV.m3u) : https://iptv.lowoneko.eu.org/YueChan/GATV.m3u
+> [**`YueChan APTV 自加速`**](https://iptv.lowoneko.eu.org/YueChan/APTV.m3u) : https://iptv.lowoneko.eu.org/YueChan/APTV.m3u
 >
 > [**`YueChan Global 源码`**](https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u) : https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 > 
