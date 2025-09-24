@@ -1,92 +1,92 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",免費訂閲：請勿販賣...
-https://epg-1.iill.top/v/302.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",維護時間：2025-7-24 #佛系維護...
-https://epg-1.iill.top/v/301.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",維護内容：維護 Sport「修复 部分播放器 失效BUG / 兼容更多播放器」
-https://epg-1.iill.top/v/302.mp4
+http://epg-1.iill.top/v/302.mp4
+#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",維護時間：2025-9-24 #佛系維護...
+http://epg-1.iill.top/v/301.mp4
+#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",維護内容：維護 Sport「增加 部分EPG / 補充節目」
+http://epg-1.iill.top/v/302.mp4
 #EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",建議使用：APTV / Tivimate / Televizo / 影視 /...
-https://epg-1.iill.top/v/301.mp4
+http://epg-1.iill.top/v/301.mp4
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",限制條件：請保持 訂閲IP 與 觀看IP 一致
-https://epg-1.iill.top/v/302.mp4
+http://epg-1.iill.top/v/302.mp4
 
-#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT Sport 1" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png" group-title="•體育賽事", TNT Sport 1
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png" group-title="•體育賽事", TNT Sport 1
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/TNT_Sports_1_BU|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT Sport 2" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png" group-title="•體育賽事", TNT Sport 2
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png" group-title="•體育賽事", TNT Sport 2
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/TNT_Sports_2_BU|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT Sport 3" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" group-title="•體育賽事", TNT Sport 3
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" group-title="•體育賽事", TNT Sport 3
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/TNT_Sports_3_BU|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT Sport 4" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="•體育賽事", TNT Sport 4
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="•體育賽事", TNT Sport 4
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/TNT_Sports_4_BU|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports Football" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Football.png" group-title="•體育賽事", Sky Sports Football
+#EXTINF:-1 tvg-id="SkySp Fball" tvg-name="SkySp Fball" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Football.png" group-title="•體育賽事", Sky Sports Football
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Football_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-Main-Event" tvg-name="Sky Sports Main Event" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Main-Event.png" group-title="•體育賽事", Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySpMainEv" tvg-name="SkySpMainEv" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Main-Event.png" group-title="•體育賽事", Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Main_Event|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports Premier League" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="•體育賽事", Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySp PL" tvg-name="SkySp PL" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="•體育賽事", Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Premier_League|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-Action" tvg-name="Sky Sports Action" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Action.png" group-title="•體育賽事", Sky Sports Action
+#EXTINF:-1 tvg-id="SkySp Action" tvg-name="SkySp Action" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Action.png" group-title="•體育賽事", Sky Sports Action
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Action_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-Mix" tvg-name="Sky Sports Mix" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" group-title="•體育賽事", Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySp Mix HD" tvg-name="SkySp Mix HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" group-title="•體育賽事", Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Mix_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-Arena" tvg-name="Sky Sports Arena" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Arena.png" group-title="•體育賽事", Sky Sports Arena
+#EXTINF:-1 tvg-id="SkySp+" tvg-name="SkySp+" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Arena.png" group-title="•體育賽事", Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Arena_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-News" tvg-name="Sky Sports News" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-News.png" group-title="•體育賽事", Sky Sports News
+#EXTINF:-1 tvg-id="SkySp News HD" tvg-name="SkySp News HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-News.png" group-title="•體育賽事", Sky Sports News
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_News_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" group-title="•體育賽事", Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySp Cricket" tvg-name="SkySp Cricket" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" group-title="•體育賽事", Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Cricket_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Tennis.png" group-title="•體育賽事", Sky Sports Tennis
+#EXTINF:-1 tvg-id="SkySp Tennis HD" tvg-name="SkySp Tennis HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Tennis.png" group-title="•體育賽事", Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Tennis|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-F1" tvg-name="Sky Sports F1" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="•體育賽事", Sky Sports F1
+#EXTINF:-1 tvg-id="SkySp F1" tvg-name="SkySp F1" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="•體育賽事", Sky Sports F1
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_F1_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-Golf" tvg-name="Sky Sports Golf" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Golf.png" group-title="•體育賽事", Sky Sports Golf
+#EXTINF:-1 tvg-id="SkySp Golf" tvg-name="SkySp Golf" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Golf.png" group-title="•體育賽事", Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Golf_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Sky-Sports-Racing" tvg-name="Sky Sports Racing" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Racing.png" group-title="•體育賽事", Sky Sports Racing
+#EXTINF:-1 tvg-id="SkySp Racing" tvg-name="SkySp Racing" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Racing.png" group-title="•體育賽事", Sky Sports Racing
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Racing_Live_TV|Referer=https://p.lioncdn.net/
@@ -101,60 +101,50 @@ https://tv.iill.top/beesport/Tennis_Channel_Live_TV|Referer=https://p.lioncdn.ne
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/La_Liga_TV_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 1" tvg-logo="https://epg-1.iill.top/logo/HBO.png" group-title="•戲劇電影", HBO 1
+#EXTINF:-1 tvg-id="HBO - Pacific Feed" tvg-name="HBO - Pacific Feed" tvg-logo="https://epg-1.iill.top/logo/HBO.png" group-title="•戲劇電影", HBO 1
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/HBO_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="HBO-2" tvg-name="HBO 2" tvg-logo="https://epg-1.iill.top/logo/HBO-2.png" group-title="•戲劇電影", HBO 2
+#EXTINF:-1 tvg-id="HBO 2 - Pacific Feed" tvg-name="HBO 2 - Pacific Feed" tvg-logo="https://epg-1.iill.top/logo/HBO-2.png" group-title="•戲劇電影", HBO 2
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/HBO_2_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="ABC-News" tvg-name="ABC News" tvg-logo="https://epg-1.iill.top/logo/ABC-News.png" http-referer="https://p.lioncdn.net/" group-title="•新聞資訊",ABC News
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://epg-1.iill.top/logo/ABC-News.png" group-title="•新聞資訊",ABC News
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/ABC|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Nat-Geo-Wild" tvg-name="Nat Geo Wild" tvg-logo="https://epg-1.iill.top/logo/National-Geographic-Wild.png" http-referer="https://p.lioncdn.net/" group-title="•探索自然",Nat Geo Wild
+#EXTINF:-1 tvg-id="BBC NEWS HD" tvg-name="BBC NEWS HD" tvg-logo="https://epg-1.iill.top/logo/BBC-News.png" group-title="•新聞資訊",BBC News
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
-https://tv.iill.top/beesport/Nat_Geo_Wild_HD|Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/BBC_News|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Discovery-Channel" tvg-name="Discovery Channel" tvg-logo="https://epg-1.iill.top/logo/Discovery-Channel.png" group-title="•探索自然", Discovery Channel
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://epg-1.iill.top/logo/FOX-NEWS.png" group-title="•新聞資訊", Fox News
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
-https://tv.iill.top/beesport/Discovery_Channel_Live_TV|Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/FOX_NEWS_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Discovery-Life" tvg-name="Discovery Life" tvg-logo="https://epg-1.iill.top/logo/Discovery-Life.png" group-title="•探索自然", Discovery Life
+#EXTINF:-1 tvg-id="BBC One S East HD" tvg-name="BBC One S East HD" tvg-logo="https://epg-1.iill.top/logo/BBC-One.png" group-title="•綜合頻道",BBC One
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
-https://tv.iill.top/beesport/Discovery_Life_Live_TV|Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/BBC_1|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Cinemax-West" tvg-name="Cinemax West" tvg-logo="https://epg-1.iill.top/logo/Cinemax-West.png" group-title="•戲劇電影", Cinemax West
+#EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBC Two HD" tvg-logo="https://epg-1.iill.top/logo/BBC-Two.png" group-title="•綜合頻道",BBC Two
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
-https://tv.iill.top/beesport/Cinemax_West_Live_TV|Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/BBC_2|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="UK-Great-Movies" tvg-name="Great Movies" tvg-logo="https://epg-1.iill.top/logo/UK-Great-Movies.png" group-title="•戲劇電影", Great Movies
+#EXTINF:-1 tvg-id="BBC Three HD" tvg-name="BBC Three HD" tvg-logo="https://epg-1.iill.top/logo/BBC-Three.png" group-title="•綜合頻道",BBC Three
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
-https://tv.iill.top/beesport/UK_Great_Movies_Live_TV|Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/BBC_Three|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="UK-Sky-Cinema-Comedy" tvg-name="Sky Cinema Comedy" tvg-logo="https://epg-1.iill.top/logo/UK-Sky-Cinema-Comedy.png" group-title="•戲劇電影", Sky Cinema Comedy
+#EXTINF:-1 tvg-id="BBC Four HD" tvg-name="BBC Four HD" tvg-logo="https://epg-1.iill.top/logo/BBC-Four.png" group-title="•綜合頻道",BBC Four
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
-https://tv.iill.top/beesport/UK_Sky_Cinema_Comedy_Live_TV|Referer=https://p.lioncdn.net/
-
-#EXTINF:-1 tvg-id="UK-Sky-Cinema-Family" tvg-name="Sky Cinema Family" tvg-logo="https://epg-1.iill.top/logo/UK-Sky-Cinema-Family.png" group-title="•戲劇電影", Sky Cinema Family
-#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
-https://tv.iill.top/beesport/UK_Sky_Cinema_Family_Live_TV|Referer=https://p.lioncdn.net/
-
-#EXTINF:-1 tvg-id="UK-Cartoon-Network" tvg-name="Cartoon Network" tvg-logo="https://epg-1.iill.top/logo/UK-Cartoon-Network.png" group-title="•少兒天地", Cartoon Network
-#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
-https://tv.iill.top/beesport/UK_Cartoon_Network_Live_TV|Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/BBC_FOUR|Referer=https://p.lioncdn.net/
 
 #EXTINF:-1 tvg-id="UK-Virgin-1" tvg-name="Virgin 1" tvg-logo="https://epg-1.iill.top/logo/UK-Virgin-1.png" group-title="•綜合頻道", Virgin 1
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
@@ -171,17 +161,57 @@ https://tv.iill.top/beesport/UK_Virgin_2|Referer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/UK_Virgin_3|Referer=https://p.lioncdn.net/
 
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://epg-1.iill.top/logo/National-Geographic-Wild.png" group-title="•探索自然",Nat Geo Wild
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/Nat_Geo_Wild_HD|Referer=https://p.lioncdn.net/
+
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://epg-1.iill.top/logo/Discovery-Channel.png" group-title="•探索自然", Discovery Channel
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/Discovery_Channel_Live_TV|Referer=https://p.lioncdn.net/
+
+#EXTINF:-1 tvg-id="Discovery Life Channel" tvg-name="Discovery Life Channel" tvg-logo="https://epg-1.iill.top/logo/Discovery-Life.png" group-title="•探索自然", Discovery Life
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/Discovery_Life_Live_TV|Referer=https://p.lioncdn.net/
+
+#EXTINF:-1 tvg-id="Cinemax-West" tvg-name="Cinemax West" tvg-logo="https://epg-1.iill.top/logo/Cinemax-West.png" group-title="•戲劇電影", Cinemax West
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/Cinemax_West_Live_TV|Referer=https://p.lioncdn.net/
+
+#EXTINF:-1 tvg-id="GREAT! movies" tvg-name="GREAT! movies" tvg-logo="https://epg-1.iill.top/logo/UK-Great-Movies.png" group-title="•戲劇電影", GREAT! movies
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/UK_Great_Movies_Live_TV|Referer=https://p.lioncdn.net/
+
+#EXTINF:-1 tvg-id="Sky Comedy Cinema" tvg-name="Sky Comedy Cinema" tvg-logo="https://epg-1.iill.top/logo/UK-Sky-Cinema-Comedy.png" group-title="•戲劇電影", Sky Cinema  Comedy
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/UK_Sky_Cinema_Comedy_Live_TV|Referer=https://p.lioncdn.net/
+
+#EXTINF:-1 tvg-id="Sky Family HD" tvg-name="Sky Family HD" tvg-logo="https://epg-1.iill.top/logo/UK-Sky-Cinema-Family.png" group-title="•戲劇電影", Sky Cinema Family
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/UK_Sky_Cinema_Family_Live_TV|Referer=https://p.lioncdn.net/
+
+#EXTINF:-1 tvg-id="Cartoon Net HD" tvg-name="Cartoon Net HD" tvg-logo="https://epg-1.iill.top/logo/UK-Cartoon-Network.png" group-title="•少兒天地", Cartoon Network
+#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
+https://tv.iill.top/beesport/UK_Cartoon_Network_Live_TV|Referer=https://p.lioncdn.net/
+
 #EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://epg-1.iill.top/logo/DAZN.png" group-title="•體育賽事", DAZN
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/DAZN_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Bein-Sports-USA" tvg-name="Bein Sports USA" tvg-logo="https://epg-1.iill.top/logo/Bein-Sports-USA.png" group-title="•體育賽事", Bein Sports USA
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-name="beIN Sport USA" tvg-logo="https://epg-1.iill.top/logo/Bein-Sports-USA.png" group-title="•體育賽事", beIN Sport USA
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Bein_Sports_USA_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Bein-Sports-English-2" tvg-name="Bein Sports English 2" tvg-logo="https://epg-1.iill.top/logo/Bein-Sports-English-2.png" group-title="•體育賽事", Bein Sports English 2
+#EXTINF:-1 tvg-id="Bein-Sports-English-2" tvg-name="Bein Sports English 2" tvg-logo="https://epg-1.iill.top/logo/Bein-Sports-English-2.png" group-title="•體育賽事", beIN Sports English 2
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Bein_Sports_English_2_Live_TV|Referer=https://p.lioncdn.net/
@@ -286,17 +316,17 @@ https://tv.iill.top/beesport/MLB_Network_Live_TV|Referer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/NBA_TV_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://epg-1.iill.top/logo/NFL-Network.png" group-title="•體育賽事", NFL Network
+#EXTINF:-1 tvg-id="NFL Network HD" tvg-name="NFL Network HD" tvg-logo="https://epg-1.iill.top/logo/NFL-Network.png" group-title="•體育賽事", NFL Network
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/NFL_Network_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="NFL-REDZONE" tvg-name="NFL Redzone" tvg-logo="https://epg-1.iill.top/logo/NFL-REDZONE.png" group-title="•體育賽事", NFL Redzone
+#EXTINF:-1 tvg-id="NFL RedZone HD" tvg-name="NFL RedZone HD" tvg-logo="https://epg-1.iill.top/logo/NFL-REDZONE.png" group-title="•體育賽事", NFL Redzone
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/NFL_REDZONE_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://epg-1.iill.top/logo/NHL-Network.png" group-title="•體育賽事", NHL Network
+#EXTINF:-1 tvg-id="NHL Network USA" tvg-name="NHL Network USA" tvg-logo="https://epg-1.iill.top/logo/NHL-Network.png" group-title="•體育賽事", NHL Network
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/NHL_Network_Live_TV|Referer=https://p.lioncdn.net/
@@ -321,7 +351,7 @@ https://tv.iill.top/beesport/Willow_Extra_Live_TV|Referer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/World_Fishing_Network_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Fight-Network" tvg-name="Fight Network" tvg-logo="https://epg-1.iill.top/logo/Fight-Network.png" group-title="•體育賽事", Fight Network
+#EXTINF:-1 tvg-id="Fight Network" tvg-name="Fight Network" tvg-logo="https://epg-1.iill.top/logo/Fight-Network.png" group-title="•體育賽事", Fight Network
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Fight_Network_Live_TV|Referer=https://p.lioncdn.net/
@@ -331,77 +361,72 @@ https://tv.iill.top/beesport/Fight_Network_Live_TV|Referer=https://p.lioncdn.net
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/ESPN_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://epg-1.iill.top/logo/ESPN-2.png" group-title="•體育賽事", ESPN 2
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://epg-1.iill.top/logo/ESPN-2.png" group-title="•體育賽事", ESPN 2
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/ESPN_2_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="ESPN-News" tvg-name="ESPN News" tvg-logo="https://epg-1.iill.top/logo/ESPN-News.png" group-title="•體育賽事", ESPN News
+#EXTINF:-1 tvg-id="ESPN News" tvg-name="ESPN News" tvg-logo="https://epg-1.iill.top/logo/ESPN-News.png" group-title="•體育賽事", ESPN News
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/ESPN_News_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="ESPN-U" tvg-name="ESPN U" tvg-logo="https://epg-1.iill.top/logo/ESPN-U.png" group-title="•體育賽事", ESPN U
+#EXTINF:-1 tvg-id="ESPN U" tvg-name="ESPN U" tvg-logo="https://epg-1.iill.top/logo/ESPN-U.png" group-title="•體育賽事", ESPN U
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/ESPN_U_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="ITV-1" tvg-name="ITV 1" tvg-logo="https://epg-1.iill.top/logo/ITV-1.png" group-title="•戲劇電影", ITV 1
+#EXTINF:-1 tvg-id="ITV1 HD" tvg-name="ITV1 HD" tvg-logo="https://epg-1.iill.top/logo/ITV-1.png" group-title="•戲劇電影", ITV 1
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/ITV_1|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="ITV-2" tvg-name="ITV 2" tvg-logo="https://epg-1.iill.top/logo/ITV-2.png" group-title="•戲劇電影", ITV 2
+#EXTINF:-1 tvg-id="ITV2 HD" tvg-name="ITV2 HD" tvg-logo="https://epg-1.iill.top/logo/ITV-2.png" group-title="•戲劇電影", ITV 2
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/ITV_2|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="ITV-3" tvg-name="ITV 3" tvg-logo="https://epg-1.iill.top/logo/ITV-3.png" group-title="•戲劇電影", ITV 3
+#EXTINF:-1 tvg-id="ITV3 HD" tvg-name="ITV3 HD" tvg-logo="https://epg-1.iill.top/logo/ITV-3.png" group-title="•戲劇電影", ITV 3
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/ITV_3|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="ITV-4" tvg-name="ITV 4" tvg-logo="https://epg-1.iill.top/logo/ITV-4.png" group-title="•戲劇電影", ITV 4
+#EXTINF:-1 tvg-id="ITV4 HD" tvg-name="ITV4 HD" tvg-logo="https://epg-1.iill.top/logo/ITV-4.png" group-title="•戲劇電影", ITV 4
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/ITV_4|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="https://epg-1.iill.top/logo/MUTV.png" group-title="•體育賽事", MUTV
+#EXTINF:-1 tvg-id="MUTV HD" tvg-name="MUTV HD" tvg-logo="https://epg-1.iill.top/logo/MUTV.png" group-title="•體育賽事", MUTV
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/MUTV_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="LFC-TV" tvg-name="LFC TV" tvg-logo="https://epg-1.iill.top/logo/LFC-TV.png" group-title="•體育賽事", LFC TV
+#EXTINF:-1 tvg-id="LFCTV HD" tvg-name="LFCTV HD" tvg-logo="https://epg-1.iill.top/logo/LFC-TV.png" group-title="•體育賽事", LFC TV
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/LFC_TV_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="ACC-Network" tvg-name="ACC Network" tvg-logo="https://epg-1.iill.top/logo/ACC-Network.png" group-title="•體育賽事", ACC Network
+#EXTINF:-1 tvg-id="ACC Network" tvg-name="ACC Network" tvg-logo="https://epg-1.iill.top/logo/ACC-Network.png" group-title="•體育賽事", ACC Network
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/ACC_Network_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="CBS-Sports-Network" tvg-name="CBS Sports Network" tvg-logo="https://epg-1.iill.top/logo/CBS-Sports-Network.png" group-title="•體育賽事", CBS Sports Network
+#EXTINF:-1 tvg-id="CBS Sports Network HD" tvg-name="CBS Sports Network HD" tvg-logo="https://epg-1.iill.top/logo/CBS-Sports-Network.png" group-title="•體育賽事", CBS Sports Network
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/CBS_Sports_Network_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://epg-1.iill.top/logo/CNBC.png" group-title="•新聞資訊", CNBC
+#EXTINF:-1 tvg-id="CNBC HD" tvg-name="CNBC HD" tvg-logo="https://epg-1.iill.top/logo/CNBC.png" group-title="•新聞資訊", CNBC
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/CNBC_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://epg-1.iill.top/logo/Fox-Sports-1.png" group-title="•體育賽事", Fox Sports 1
+#EXTINF:-1 tvg-id="Fox Sports 1" tvg-name="Fox Sports 1" tvg-logo="https://epg-1.iill.top/logo/Fox-Sports-1.png" group-title="•體育賽事", Fox Sports 1
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Fox_Sports_1_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://epg-1.iill.top/logo/Fox-Sports-2.png" group-title="•體育賽事", Fox Sports 2
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="https://epg-1.iill.top/logo/Fox-Sports-2.png" group-title="•體育賽事", Fox Sports 2
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Fox_Sports_2_Live_TV|Referer=https://p.lioncdn.net/
-
-#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX News" tvg-logo="https://epg-1.iill.top/logo/FOX-NEWS.png" group-title="•新聞資訊", FOX News
-#EXTVLCOPT:http-referrer=https://p.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
-https://tv.iill.top/beesport/FOX_NEWS_Live_TV|Referer=https://p.lioncdn.net/
