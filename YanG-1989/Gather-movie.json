@@ -30,6 +30,7 @@
       "name": "Sport「体育」",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Sport",
+      "epg":"https://epg.iill.top/epg.xml",
       "header": {
         "Referer": "https://p.lioncdn.net/"
       },

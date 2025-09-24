@@ -180,12 +180,22 @@ https://epg-1.iill.top/v/301.mp4
 https://epg-1.iill.top/v/301.mp4
 
 #INSERT_HERE
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/26351451&bilibili&logo" group-title="•B站「其他」",东方明珠文娱
+http://i.iill.top:12838/bilibili/26351451
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30468649&bilibili&logo" group-title="•B站「娱乐」",铃芽不俐齿
+http://i.iill.top:12838/bilibili/30468649
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title="•B站「娱乐」",EdmundDZhang
+http://i.iill.top:12838/bilibili/5050
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11357890&bilibili&logo" group-title="•B站「娱乐」",Rickycheung05
 http://i.iill.top:12838/bilibili/11357890
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1911279895&bilibili&logo" group-title="•B站「娱乐」",诗茵G
+http://i.iill.top:12838/bilibili/1911279895
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/24190721&bilibili&logo" group-title="•B站「娱乐」",梦河梦
+http://i.iill.top:12838/bilibili/24190721
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/22342243&bilibili&logo" group-title="•B站「娱乐」",新华社快看
 http://i.iill.top:12838/bilibili/22342243
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1880057560&bilibili&logo" group-title="•B站「娱乐」",花莲
-http://i.iill.top:12838/bilibili/1880057560
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9162799&bilibili&logo" group-title="•B站「娱乐」",九重紫
+http://i.iill.top:12838/bilibili/9162799
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30098402&bilibili&logo" group-title="•B站「影视」",名侦探柯南|米花小侦探
 http://i.iill.top:12838/bilibili/30098402
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30150311&bilibili&logo" group-title="•B站「影视」",蜡笔小新|小芯动漫
@@ -196,88 +206,94 @@ http://i.iill.top:12838/bilibili/32330910
 http://i.iill.top:12838/bilibili/26752884
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/27554961&bilibili&logo" group-title="•B站「影视」",武林外传|西瓜放映厅
 http://i.iill.top:12838/bilibili/27554961
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/31546095&bilibili&logo" group-title="•B站「影视」",爱情公寓|西西晓瓜
-http://i.iill.top:12838/bilibili/31546095
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30041682&bilibili&logo" group-title="•B站「影视」",臣臣
 http://i.iill.top:12838/bilibili/30041682
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/23776217&bilibili&logo" group-title="•B站「影视」",经典港剧大全
 http://i.iill.top:12838/bilibili/23776217
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/8178490&bilibili&logo" group-title="•B站「影视」",央视新闻直播
 http://i.iill.top:12838/bilibili/8178490
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/21622428&bilibili&logo" group-title="•B站「游戏」",【COD20】 进来闲聊！
-http://i.iill.top:12838/bilibili/21622428
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/22102223&bilibili&logo" group-title="•B站「影视」",新华社
+http://i.iill.top:12838/bilibili/22102223
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/7777&bilibili&logo" group-title="•B站「游戏」",德云社
+http://i.iill.top:12838/bilibili/7777
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/388&bilibili&logo" group-title="•B站「游戏」",两仪滚
+http://i.iill.top:12838/bilibili/388
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/12101556&bilibili&logo" group-title="•B站「游戏」",ameng梦梦梦
+http://i.iill.top:12838/bilibili/12101556
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11192805&bilibili&logo" group-title="•B站「游戏」",菜农来辣
+http://i.iill.top:12838/bilibili/11192805
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1327236&bilibili&logo" group-title="•B站「游戏」",半支烟sama
+http://i.iill.top:12838/bilibili/1327236
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/13308358&bilibili&logo" group-title="•B站「游戏」",甜药Jamren
 http://i.iill.top:12838/bilibili/13308358
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/7734200&bilibili&logo" group-title="•B站「游戏」",英雄联盟赛事
 http://i.iill.top:12838/bilibili/7734200
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/92613&bilibili&logo" group-title="•B站「游戏」",少年 pi
-http://i.iill.top:12838/bilibili/92613
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/21414905&bilibili&logo" group-title="•B站「游戏」",你的影月月
-http://i.iill.top:12838/bilibili/21414905
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/5513659&bilibili&logo" group-title="•B站「游戏」",狙佬-zuener
-http://i.iill.top:12838/bilibili/5513659
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/22747736&bilibili&logo" group-title="•B站「游戏」",不死鸟总监
+http://i.iill.top:12838/bilibili/22747736
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30841267&bilibili&logo" group-title="•B站「游戏」",日本职业麻将联盟
+http://i.iill.top:12838/bilibili/30841267
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/115&bilibili&logo" group-title="•B站「游戏」",神奇陆夫人
+http://i.iill.top:12838/bilibili/115
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/22889482&bilibili&logo" group-title="•B站「游戏」",小柳梢z
+http://i.iill.top:12838/bilibili/22889482
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/4017751&bilibili&logo" group-title="•B站「游戏」",BestNaomi
+http://i.iill.top:12838/bilibili/4017751
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/440006&bilibili&logo" group-title="•B站「游戏」",主机
+http://i.iill.top:12838/bilibili/440006
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/923833&bilibili&logo" group-title="•B站「游戏」",沉默寡言，洛克世界
+http://i.iill.top:12838/bilibili/923833
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/B站.png" group-title="•B站「游戏」",LIGhtYgo
+http://i.iill.top:12838/bilibili/527206
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/21733448&bilibili&logo" group-title="•B站「游戏」",阿帅派克
+http://i.iill.top:12838/bilibili/21733448
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/13355&bilibili&logo" group-title="•B站「游戏」",战术级子轩
+http://i.iill.top:12838/bilibili/13355
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/6535302 &bilibili&logo" group-title="•B站「游戏」",空灵LML
 http://i.iill.top:12838/bilibili/6535302
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/ch1716&soop&logo" group-title="•SOOP「娱乐」",최군형
-https://live.iill.top/soop/ch1716
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/myby1221&soop&logo" group-title="•SOOP「娱乐」",[7]연두
-https://live.iill.top/soop/myby1221
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/sejin453&soop&logo" group-title="•SOOP「娱乐」",송화양
-https://live.iill.top/soop/sejin453
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/31600397&bilibili&logo" group-title="•B站「游戏」",巧克力杰斯
+http://i.iill.top:12838/bilibili/31600397
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1911275597&bilibili&logo" group-title="•B站「游戏」",柒柒在摘星
+http://i.iill.top:12838/bilibili/1911275597
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/vgloldv&soop&logo" group-title="•SOOP「娱乐」",[7]디자인수
+https://live.iill.top/soop/vgloldv
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/dbdms139&soop&logo" group-title="•SOOP「娱乐」",유은
+https://live.iill.top/soop/dbdms139
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/oktube&soop&logo" group-title="•SOOP「娱乐」",옥튜브
 https://live.iill.top/soop/oktube
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/flower1023&soop&logo" group-title="•SOOP「娱乐」",김빵귤♥
+https://live.iill.top/soop/flower1023
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/flowerbud1&soop&logo" group-title="•SOOP「娱乐」",츠보미.
 https://live.iill.top/soop/flowerbud1
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/yukki62&soop&logo" group-title="•SOOP「娱乐」",♡유키♡
-https://live.iill.top/soop/yukki62
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/tmtdd22&soop&logo" group-title="•SOOP「娱乐」",아인이♥
-https://live.iill.top/soop/tmtdd22
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/hubegung&soop&logo" group-title="•SOOP「娱乐」",[TCK]홍빠
+https://live.iill.top/soop/hubegung
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/hancoma&soop&logo" group-title="•SOOP「娱乐」",하나옵
 https://live.iill.top/soop/hancoma
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/nchacha&soop&logo" group-title="•SOOP「娱乐」",김슬기*
-https://live.iill.top/soop/nchacha
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/fpajs77&soop&logo" group-title="•SOOP「娱乐」",똔똔♥
-https://live.iill.top/soop/fpajs77
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/domangcha13&soop&logo" group-title="•SOOP「娱乐」",♡도원♡
-https://live.iill.top/soop/domangcha13
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/seo5216&soop&logo" group-title="•SOOP「娱乐」",이서냥♡
-https://live.iill.top/soop/seo5216
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/nmh112&soop&logo" group-title="•SOOP「娱乐」",♥다야
-https://live.iill.top/soop/nmh112
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/wjswhdtjd230&soop&logo" group-title="•SOOP「娱乐」",순정이♡
-https://live.iill.top/soop/wjswhdtjd230
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/zoomcar99&soop&logo" group-title="•SOOP「娱乐」",서말랭
-https://live.iill.top/soop/zoomcar99
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/zzey33&soop&logo" group-title="•SOOP「娱乐」",♥연화
-https://live.iill.top/soop/zzey33
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/say486&soop&logo" group-title="•SOOP「娱乐」",♡짱스짱아♡
-https://live.iill.top/soop/say486
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/dign1461&soop&logo" group-title="•SOOP「娱乐」",♡혜밍
+https://live.iill.top/soop/dign1461
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/soclato&soop&logo" group-title="•SOOP「娱乐」",Sea김바다
+https://live.iill.top/soop/soclato
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/hyesol&soop&logo" group-title="•SOOP「娱乐」",혜솔♥
+https://live.iill.top/soop/hyesol
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/plppt123&soop&logo" group-title="•SOOP「娱乐」",凸채원이♥
+https://live.iill.top/soop/plppt123
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/hyojoo74&soop&logo" group-title="•SOOP「娱乐」",효둥
+https://live.iill.top/soop/hyojoo74
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/dkdleliii&soop&logo" group-title="•SOOP「娱乐」",해리〃민경
 https://live.iill.top/soop/dkdleliii
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/kchoij&soop&logo" group-title="•SOOP「娱乐」",로링♥
+https://live.iill.top/soop/kchoij
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1004ysus&soop&logo" group-title="•SOOP「娱乐」",둘기얏
 https://live.iill.top/soop/1004ysus
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/khyunju5110&soop&logo" group-title="•SOOP「娱乐」",슈밍♥
-https://live.iill.top/soop/khyunju5110
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/vnfmfmsrht&soop&logo" group-title="•SOOP「娱乐」",♥나은♥
+https://live.iill.top/soop/vnfmfmsrht
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/ahae0505&soop&logo" group-title="•SOOP「娱乐」",°해아
 https://live.iill.top/soop/ahae0505
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/kyoona610&soop&logo" group-title="•SOOP「娱乐」",♡이서아♡
-https://live.iill.top/soop/kyoona610
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/mm3mmm&soop&logo" group-title="•SOOP「娱乐」",츄정♡
-https://live.iill.top/soop/mm3mmm
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/sanaekcy&soop&logo" group-title="•SOOP「娱乐」",[LR]사나이
 https://live.iill.top/soop/sanaekcy
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/berryoonna&soop&logo" group-title="•SOOP「娱乐」",죠물
-https://live.iill.top/soop/berryoonna
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/scv6256&soop&logo" group-title="•SOOP「游戏」",Light이재호李在浩
-https://live.iill.top/soop/scv6256
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「娱乐」",QBunnyTV
 https://live.iill.top/twitch/QBunnyTV
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「娱乐」",cerberVT
-https://live.iill.top/twitch/cerberVT
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「游戏」",Dota TV 24/7
 https://live.iill.top/twitch/dotatv247
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「游戏」",Shroud
-https://live.iill.top/twitch/shroud
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「游戏」",ESLCS
 https://live.iill.top/twitch/eslcs
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/gdtvdvxc&douyin&logo" group-title="•抖音「其他」",DV现场
@@ -290,8 +306,6 @@ http://i.iill.top:12838/douyin/dongfangzhenxuan
 http://i.iill.top:12838/douyin/hddhy20202
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/cctvnews&douyin&logo" group-title="•抖音「其他」",央视新闻
 http://i.iill.top:12838/douyin/cctvnews
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/ShenJun668&douyin&logo" group-title="•抖音「其他」",自律哥有氧健身
-http://i.iill.top:12838/douyin/ShenJun668
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/wangjiaolian996&douyin&logo" group-title="•抖音「其他」",隔壁王教练
 http://i.iill.top:12838/douyin/wangjiaolian996
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/JGPYZBJ&douyin&logo" group-title="•抖音「其他」",交个朋友
@@ -300,76 +314,94 @@ http://i.iill.top:12838/douyin/JGPYZBJ
 http://i.iill.top:12838/douyin/dysjdy2003
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/KKnews&douyin&logo" group-title="•抖音「其他」",看看新闻
 http://i.iill.top:12838/douyin/KKnews
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/xidi1047&douyin&logo" group-title="•抖音「其他」",安徽西递村
-http://i.iill.top:12838/douyin/xidi1047
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Wansuishan&douyin&logo" group-title="•抖音「其他」",万岁山武侠城
-http://i.iill.top:12838/douyin/Wansuishan
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/kuaikancctv&douyin&logo" group-title="•抖音「其他」",央视网快看
-http://i.iill.top:12838/douyin/kuaikancctv
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/zhejiangzhisheng&douyin&logo" group-title="•抖音「其他」",浙江之声
 http://i.iill.top:12838/douyin/zhejiangzhisheng
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Cocoxinxinzi&douyin&logo" group-title="•抖音「其他」",欣欣籽孕期运动
-http://i.iill.top:12838/douyin/Cocoxinxinzi
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/shanshixinwen&douyin&logo" group-title="•抖音「其他」",陕视新闻
 http://i.iill.top:12838/douyin/shanshixinwen
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/YuKipaiqiu&douyin&logo" group-title="•抖音「其他」",排球主播Yuki
+http://i.iill.top:12838/douyin/YuKipaiqiu
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/89067042661m&douyin&logo" group-title="•抖音「其他」",林清浅律师
+http://i.iill.top:12838/douyin/89067042661m
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/IM_Motors&douyin&logo" group-title="•抖音「其他」",智己
 http://i.iill.top:12838/douyin/IM_Motors
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/cctv.com&douyin&logo" group-title="•抖音「其他」",央视网
 http://i.iill.top:12838/douyin/cctv.com
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/PangYing9886&douyin&logo" group-title="•抖音「娱乐」",颖儿瑜伽！好运连连
-http://i.iill.top:12838/douyin/PangYing9886
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Mansorry0&douyin&logo" group-title="•抖音「娱乐」",新月001
-http://i.iill.top:12838/douyin/Mansorry0
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/meizhoubao66.&douyin&logo" group-title="•抖音「娱乐」",美洲豹
-http://i.iill.top:12838/douyin/meizhoubao66.
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/laowoxifuxia&douyin&logo" group-title="•抖音「娱乐」",🇱🇦小依
-http://i.iill.top:12838/douyin/laowoxifuxia
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/qiqikiki7799&douyin&logo" group-title="•抖音「娱乐」",KiKi大魔王
-http://i.iill.top:12838/douyin/qiqikiki7799
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/5888wy.&douyin&logo" group-title="•抖音「娱乐」",小仙儿❤️
-http://i.iill.top:12838/douyin/5888wy.
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/56g75&douyin&logo" group-title="•抖音「娱乐」",沫沫🍒
+http://i.iill.top:12838/douyin/56g75
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Emmaddpp&douyin&logo" group-title="•抖音「娱乐」",小猪咪🐷
+http://i.iill.top:12838/douyin/Emmaddpp
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/gg36588&douyin&logo" group-title="•抖音「娱乐」",木槿🌳（舞）
+http://i.iill.top:12838/douyin/gg36588
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Mio0811&douyin&logo" group-title="•抖音「娱乐」",洛芙baby
+http://i.iill.top:12838/douyin/Mio0811
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Ppnn..&douyin&logo" group-title="•抖音「娱乐」",嘚啵嘚啵
+http://i.iill.top:12838/douyin/Ppnn..
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/RouRou526.&douyin&logo" group-title="•抖音「娱乐」",肉肉526
+http://i.iill.top:12838/douyin/RouRou526.
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/20231126han&douyin&logo" group-title="•抖音「娱乐」",韩千亿文化
+http://i.iill.top:12838/douyin/20231126han
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/hxx1005.&douyin&logo" group-title="•抖音「娱乐」",是小小啊⁰⁵¹¹
 http://i.iill.top:12838/douyin/hxx1005.
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/cctv_video&douyin&logo" group-title="•抖音「娱乐」",小央视频
 http://i.iill.top:12838/douyin/cctv_video
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/xianfabu029&douyin&logo" group-title="•抖音「娱乐」",西安发布
 http://i.iill.top:12838/douyin/xianfabu029
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Xwt0327&douyin&logo" group-title="•抖音「娱乐」",小稳妥
-http://i.iill.top:12838/douyin/Xwt0327
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/xinhuashe&douyin&logo" group-title="•抖音「娱乐」",新华社
 http://i.iill.top:12838/douyin/xinhuashe
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/抖音.png" group-title="•抖音「娱乐」",雷军
 http://i.iill.top:12838/douyin/xiaomizhibojian
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/mengmeng0703_&douyin&logo" group-title="•抖音「娱乐」",梦想
-http://i.iill.top:12838/douyin/mengmeng0703_
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Kuaikancctv&douyin&logo" group-title="•抖音「娱乐」",CCTV13
-http://i.iill.top:12838/douyin/Kuaikancctv
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/cctv6media.&douyin&logo" group-title="•抖音「影视」",CCTV6
-http://i.iill.top:12838/douyin/cctv6media.
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/hcxss111&douyin&logo" group-title="•抖音「娱乐」",杭城小师赛
+http://i.iill.top:12838/douyin/hcxss111
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/LF1210316&douyin&logo" group-title="•抖音「娱乐」",皮特(三角洲行动)
+http://i.iill.top:12838/douyin/LF1210316
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/wot_zhapi&douyin&logo" group-title="•抖音「游戏」",爱喝扎啤的潘车长
+http://i.iill.top:12838/douyin/wot_zhapi
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/tiannaibaby&douyin&logo" group-title="•抖音「游戏」",甜奈
+http://i.iill.top:12838/douyin/tiannaibaby
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/lengdaixiangjiao&douyin&logo" group-title="•抖音「游戏」",冷黛🍌
 http://i.iill.top:12838/douyin/lengdaixiangjiao
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Mengmeng972&douyin&logo" group-title="•抖音「游戏」",李素妍
 http://i.iill.top:12838/douyin/Mengmeng972
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/JHRC99999&douyin&logo" group-title="•抖音「游戏」",冷艳华
-http://i.iill.top:12838/douyin/JHRC99999
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Moyulang&douyin&logo" group-title="•抖音「游戏」",墨羽狼
-http://i.iill.top:12838/douyin/Moyulang
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/xiaoahua6&douyin&logo" group-title="•抖音「游戏」",小阿花
-http://i.iill.top:12838/douyin/xiaoahua6
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/JNAAS&douyin&logo" group-title="•抖音「游戏」",南施
-http://i.iill.top:12838/douyin/JNAAS
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Flaws777&douyin&logo" group-title="•抖音「游戏」",破绽
+http://i.iill.top:12838/douyin/Flaws777
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/jiakechong666666&douyin&logo" group-title="•抖音「游戏」",甲壳虫剑圣
+http://i.iill.top:12838/douyin/jiakechong666666
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/tamu12345&douyin&logo" group-title="•抖音「游戏」",塔姆大王（英雄联盟）
+http://i.iill.top:12838/douyin/tamu12345
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/YasuoGod&douyin&logo" group-title="•抖音「游戏」",柔风亚索
+http://i.iill.top:12838/douyin/YasuoGod
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/xzh0601xx&douyin&logo" group-title="•抖音「游戏」",小樱樱
+http://i.iill.top:12838/douyin/xzh0601xx
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/wenrounanqiang&douyin&logo" group-title="•抖音「游戏」",温柔男枪
+http://i.iill.top:12838/douyin/wenrounanqiang
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/jjworld&douyin&logo" group-title="•抖音「游戏」",JJ斗地主
+http://i.iill.top:12838/douyin/jjworld
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/DYXDmao&douyin&logo" group-title="•抖音「游戏」",毛小毛
+http://i.iill.top:12838/douyin/DYXDmao
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/sanjiu0530&douyin&logo" group-title="•抖音「游戏」",三酒
 http://i.iill.top:12838/douyin/sanjiu0530
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/Kle716&douyin&logo" group-title="•抖音「游戏」",王者荣耀可乐（貂蝉）
 http://i.iill.top:12838/douyin/Kle716
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/msgxiong&douyin&logo" group-title="•抖音「游戏」",梦三国熊二
-http://i.iill.top:12838/douyin/msgxiong
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/xiaofengbeileiya&douyin&logo" group-title="•抖音「游戏」",小风贝蕾亚
-http://i.iill.top:12838/douyin/xiaofengbeileiya
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/adpw_yangyang&douyin&logo" group-title="•抖音「游戏」",女枪王
-http://i.iill.top:12838/douyin/adpw_yangyang
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/CT.6660&douyin&logo" group-title="•抖音「游戏」",辰天
+http://i.iill.top:12838/douyin/CT.6660
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/zhuzi566&douyin&logo" group-title="•抖音「游戏」",柱子
+http://i.iill.top:12838/douyin/zhuzi566
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/no1TAO&douyin&logo" group-title="•抖音「游戏」",南波万（三角洲）
+http://i.iill.top:12838/douyin/no1TAO
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/qwq00z&douyin&logo" group-title="•抖音「游戏」",从玲开始的异世界
+http://i.iill.top:12838/douyin/qwq00z
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/ZzzzzzTuT&douyin&logo" group-title="•抖音「游戏」",观雾
+http://i.iill.top:12838/douyin/ZzzzzzTuT
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/aijiang825&douyin&logo" group-title="•抖音「游戏」",哀酱(无畏契约)
+http://i.iill.top:12838/douyin/aijiang825
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/NPChehe777&douyin&logo" group-title="•抖音「游戏」",NPCovo(无畏契约)
+http://i.iill.top:12838/douyin/NPChehe777
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/XiaoXinFps&douyin&logo" group-title="•抖音「游戏」",小狐imxiaoxin
+http://i.iill.top:12838/douyin/XiaoXinFps
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/434213&douyu&logo" group-title="•斗鱼「其他」",数码科技
 http://i.iill.top:12838/douyu/434213
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/452628&douyu&logo" group-title="•斗鱼「其他」",科技美学
+http://i.iill.top:12838/douyu/452628
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/8661966&douyu&logo" group-title="•斗鱼「其他」",下饭音乐
 http://i.iill.top:12838/douyu/8661966
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/10205199&douyu&logo" group-title="•斗鱼「其他」",练习每一天
@@ -384,6 +416,10 @@ http://i.iill.top:12838/douyu/431460
 http://i.iill.top:12838/douyu/6561377
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/236461&douyu&logo" group-title="•斗鱼「其他」",老高与小茉的死忠粉
 http://i.iill.top:12838/douyu/236461
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9588891&douyu&logo" group-title="•斗鱼「娱乐」",秋月剪水
+http://i.iill.top:12838/douyu/9588891
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/244548&douyu&logo" group-title="•斗鱼「娱乐」",叶子户外
+http://i.iill.top:12838/douyu/244548
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11034942&douyu&logo" group-title="•斗鱼「娱乐」",夕夕没睡醒
 http://i.iill.top:12838/douyu/11034942
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1377142&douyu&logo" group-title="•斗鱼「娱乐」",yuxian
@@ -398,12 +434,16 @@ http://i.iill.top:12838/douyu/2104744
 http://i.iill.top:12838/douyu/329667
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/17732&douyu&logo" group-title="•斗鱼「娱乐」",7师傅
 http://i.iill.top:12838/douyu/17732
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9698055&douyu&logo" group-title="•斗鱼「娱乐」",大阿七qi
+http://i.iill.top:12838/douyu/9698055
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/10153463&douyu&logo" group-title="•斗鱼「娱乐」",【开心麻花】沈腾、马丽经典小品专场
 http://i.iill.top:12838/douyu/10153463
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9406416&douyu&logo" group-title="•斗鱼「娱乐」",辽视组团上春晚的直播间
 http://i.iill.top:12838/douyu/9406416
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/4452132&douyu&logo" group-title="•斗鱼「娱乐」",何二抛zZ
 http://i.iill.top:12838/douyu/4452132
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/317422&douyu&logo" group-title="•斗鱼「娱乐」",驴酱的冯雨大王
+http://i.iill.top:12838/douyu/317422
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11017&douyu&logo" group-title="•斗鱼「娱乐」",War3TH000
 http://i.iill.top:12838/douyu/11017
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title="•斗鱼「娱乐」",柯南
@@ -458,6 +498,10 @@ http://i.iill.top:12838/douyu/9018297
 http://i.iill.top:12838/douyu/122402
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/8009547&douyu&logo" group-title="•斗鱼「影视」",香港鬼片
 http://i.iill.top:12838/douyu/8009547
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11878141&douyu&logo" group-title="•斗鱼「影视」",蕃薯粥粥煮好了
+http://i.iill.top:12838/douyu/11878141
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/426517&douyu&logo" group-title="•斗鱼「影视」",动漫轮播
+http://i.iill.top:12838/douyu/426517
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/6863367&douyu&logo" group-title="•斗鱼「影视」",爱情公寓|爱情公寓vip
 http://i.iill.top:12838/douyu/6863367
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11827530&douyu&logo" group-title="•斗鱼「影视」",家有儿女|一样二职
@@ -474,8 +518,6 @@ http://i.iill.top:12838/douyu/9639225
 http://i.iill.top:12838/douyu/7655471
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9375430&douyu&logo" group-title="•斗鱼「影视」",爱笑会议室
 http://i.iill.top:12838/douyu/9375430
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9942574&douyu&logo" group-title="•斗鱼「影视」",爆笑虫子
-http://i.iill.top:12838/douyu/9942574
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/6027991&douyu&logo" group-title="•斗鱼「影视」",狄仁杰 1-4 部
 http://i.iill.top:12838/douyu/6027991
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9273031&douyu&logo" group-title="•斗鱼「影视」",相声
@@ -530,6 +572,8 @@ http://i.iill.top:12838/douyu/4290711
 http://i.iill.top:12838/douyu/74374
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/12183882&douyu&logo" group-title="•斗鱼「影视」",狄胖胖与李乖乖
 http://i.iill.top:12838/douyu/12183882
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/4615502&douyu&logo" group-title="•斗鱼「游戏」",一条小团团OvO(包包代播)
+http://i.iill.top:12838/douyu/4615502
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9999&douyu&logo" group-title="•斗鱼「游戏」",YYF
 http://i.iill.top:12838/douyu/9999
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/74960&douyu&logo" group-title="•斗鱼「游戏」",叫我老陈就好了
@@ -538,32 +582,40 @@ http://i.iill.top:12838/douyu/74960
 http://i.iill.top:12838/douyu/1870001
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/5498522&douyu&logo" group-title="•斗鱼「游戏」",Lilghost
 http://i.iill.top:12838/douyu/5498522
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/3567314&douyu&logo" group-title="•斗鱼「游戏」",王纪超666
-http://i.iill.top:12838/douyu/3567314
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/93589&douyu&logo" group-title="•斗鱼「游戏」",异灵术老师
+http://i.iill.top:12838/douyu/93589
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1300804&douyu&logo" group-title="•斗鱼「游戏」",卷子
 http://i.iill.top:12838/douyu/1300804
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/687423&douyu&logo" group-title="•斗鱼「游戏」",yjjimpaopao
+http://i.iill.top:12838/douyu/687423
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1126960&douyu&logo" group-title="•斗鱼「游戏」",余小C
 http://i.iill.top:12838/douyu/1126960
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/12133146&douyu&logo" group-title="•斗鱼「游戏」",牛逼小番
+http://i.iill.top:12838/douyu/12133146
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/52876&douyu&logo" group-title="•斗鱼「游戏」",ZSMJ
 http://i.iill.top:12838/douyu/52876
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/572288&douyu&logo" group-title="•斗鱼「游戏」", Cnzlike
+http://i.iill.top:12838/douyu/572288
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/6558897&douyu&logo" group-title="•斗鱼「游戏」",果小果是个弟弟
 http://i.iill.top:12838/douyu/6558897
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/10639765&douyu&logo" group-title="•斗鱼「游戏」",艾琳bigbaby
 http://i.iill.top:12838/douyu/10639765
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/6567483&douyu&logo" group-title="•斗鱼「游戏」",Sumiya丶墨岩彧
+http://i.iill.top:12838/douyu/6567483
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/63136&douyu&logo" group-title="•斗鱼「游戏」",冬瓜强
 http://i.iill.top:12838/douyu/63136
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/528353&douyu&logo" group-title="•斗鱼「游戏」",As童话话话
 http://i.iill.top:12838/douyu/528353
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/74751&douyu&logo" group-title="•斗鱼「游戏」",超级小桀
+http://i.iill.top:12838/douyu/74751
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11746004&douyu&logo" group-title="•斗鱼「游戏」",阿豪是超级大帅Bi
 http://i.iill.top:12838/douyu/11746004
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/7180846&douyu&logo" group-title="•斗鱼「游戏」",jjking剑姬
 http://i.iill.top:12838/douyu/7180846
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/718133&douyu&logo" group-title="•斗鱼「游戏」",十月船长
-http://i.iill.top:12838/douyu/718133
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/39300&douyu&logo" group-title="•斗鱼「游戏」",舟老师丶
+http://i.iill.top:12838/douyu/39300
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/280087&douyu&logo" group-title="•斗鱼「游戏」",欠你幸福（四国军棋）
 http://i.iill.top:12838/douyu/280087
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/6499690&douyu&logo" group-title="•斗鱼「游戏」",国宝佳悦
-http://i.iill.top:12838/douyu/6499690
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/4487219&douyu&logo" group-title="•斗鱼「游戏」",帽子（象棋）
 http://i.iill.top:12838/douyu/4487219
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/26023&douyu&logo" group-title="•斗鱼「游戏」",A胖瘦了
@@ -572,8 +624,6 @@ http://i.iill.top:12838/douyu/26023
 http://i.iill.top:12838/douyu/6979222
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/80887&douyu&logo" group-title="•斗鱼「游戏」",DMC 葡萄鹏
 http://i.iill.top:12838/douyu/80887
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/2207607&douyu&logo" group-title="•斗鱼「游戏」",骚易
-http://i.iill.top:12838/douyu/2207607
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/5377721&douyu&logo" group-title="•斗鱼「游戏」",放逐大帝灬
 http://i.iill.top:12838/douyu/5377721
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/2106575&douyu&logo" group-title="•斗鱼「游戏」",吕布
@@ -584,8 +634,8 @@ http://i.iill.top:12838/douyu/190448
 http://i.iill.top:12838/douyu/52
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/5168755&douyu&logo" group-title="•斗鱼「游戏」",武神59
 http://i.iill.top:12838/douyu/5168755
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/255287&douyu&logo" group-title="•斗鱼「游戏」",kz 石头
-http://i.iill.top:12838/douyu/255287
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1314213&douyu&logo" group-title="•斗鱼「游戏」",阿良林暦
+http://i.iill.top:12838/douyu/1314213
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/62081&douyu&logo" group-title="•斗鱼「游戏」",叶落
 http://i.iill.top:12838/douyu/62081
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/433724&douyu&logo" group-title="•斗鱼「游戏」",王科长
@@ -600,56 +650,76 @@ http://i.iill.top:12838/douyu/2311698
 http://i.iill.top:12838/douyu/845683
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/8652337&douyu&logo" group-title="•斗鱼「游戏」",小霖超甜呐-蛋仔
 http://i.iill.top:12838/douyu/8652337
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/5389181&douyu&logo" group-title="•斗鱼「游戏」",年鹏
+http://i.iill.top:12838/douyu/5389181
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/2421040&douyu&logo" group-title="•斗鱼「游戏」",三酒OuO
 http://i.iill.top:12838/douyu/2421040
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title="•斗鱼「游戏」",龙四爷攻略组
 http://i.iill.top:12838/douyu/479079
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/8256300&douyu&logo" group-title="•斗鱼「游戏」",子敬ad
-http://i.iill.top:12838/douyu/8256300
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/93936&douyu&logo" group-title="•斗鱼「游戏」",赖小峰
 http://i.iill.top:12838/douyu/93936
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/24422&douyu&logo" group-title="•斗鱼「游戏」",Pigff
 http://i.iill.top:12838/douyu/24422
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/235520&douyu&logo" group-title="•斗鱼「游戏」",18yearsold天残少年K9
-http://i.iill.top:12838/douyu/235520
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/431935&douyu&logo" group-title="•斗鱼「游戏」",李哥
+http://i.iill.top:12838/douyu/431935
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/6141287&douyu&logo" group-title="•斗鱼「游戏」",老杨怪
+http://i.iill.top:12838/douyu/6141287
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/229743&douyu&logo" group-title="•斗鱼「游戏」",秋山澪Mio丶
+http://i.iill.top:12838/douyu/229743
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/12821&douyu&logo" group-title="•斗鱼「游戏」",白鲨
+http://i.iill.top:12838/douyu/12821
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9940062&douyu&logo" group-title="•斗鱼「游戏」",Sky灬素顏
+http://i.iill.top:12838/douyu/9940062
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/5720533&douyu&logo" group-title="•斗鱼「游戏」",邦Sa
 http://i.iill.top:12838/douyu/5720533
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/74706&douyu&logo" group-title="•斗鱼「游戏」",大魔王夏天天
 http://i.iill.top:12838/douyu/74706
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/107253&douyu&logo" group-title="•斗鱼「游戏」",摇摆
 http://i.iill.top:12838/douyu/107253
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/10844415&douyu&logo" group-title="•斗鱼「游戏」",小七真的C
+http://i.iill.top:12838/douyu/10844415
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11437&douyu&logo" group-title="•斗鱼「游戏」",丨ABang阿帮丨
+http://i.iill.top:12838/douyu/11437
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/3258&douyu&logo" group-title="•斗鱼「游戏」",杰出哥
+http://i.iill.top:12838/douyu/3258
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/2805008&douyu&logo" group-title="•斗鱼「游戏」",雨帆灬
 http://i.iill.top:12838/douyu/2805008
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/4826&yy&logo" group-title="•歪歪「其他」",小闪电
-http://i.iill.top:12838/yy/4826
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/991&yy&logo" group-title="•歪歪「娱乐」",音乐991
 http://i.iill.top:12838/yy/991
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/993&yy&logo" group-title="•歪歪「娱乐」",燃舞993
 http://i.iill.top:12838/yy/993
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1462155211&yy&logo" group-title="•歪歪「娱乐」",晨一凉小呆
 http://i.iill.top:12838/yy/1462155211
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1669&yy&logo" group-title="•歪歪「娱乐」",大白兔
-http://i.iill.top:12838/yy/1669
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1343872485&yy&logo" group-title="•歪歪「娱乐」",泡泡
+http://i.iill.top:12838/yy/1343872485
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1345386938&yy&logo" group-title="•歪歪「娱乐」",小啾啾
+http://i.iill.top:12838/yy/1345386938
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/3594&yy&logo" group-title="•歪歪「娱乐」",毕加索
+http://i.iill.top:12838/yy/3594
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1357&yy&logo" group-title="•歪歪「娱乐」",少寒Shine
 http://i.iill.top:12838/yy/1357
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9469&yy&logo" group-title="•歪歪「娱乐」",果子
-http://i.iill.top:12838/yy/9469
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/10287387&yy&logo" group-title="•歪歪「娱乐」",星妹妹m
+http://i.iill.top:12838/yy/10287387
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/61986&yy&logo" group-title="•歪歪「娱乐」",小小
+http://i.iill.top:12838/yy/61986
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/2986&yy&logo" group-title="•歪歪「娱乐」",慧雅雅
 http://i.iill.top:12838/yy/2986
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/5893&yy&logo" group-title="•歪歪「娱乐」",小青柠
 http://i.iill.top:12838/yy/5893
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/34025318&yy&logo" group-title="•歪歪「娱乐」",相声搜
 http://i.iill.top:12838/yy/34025318
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/31461&yy&logo" group-title="•歪歪「娱乐」",虎大微
-http://i.iill.top:12838/yy/31461
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/18692&yy&logo" group-title="•歪歪「娱乐」",燃燃
-http://i.iill.top:12838/yy/18692
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/314&yy&logo" group-title="•歪歪「娱乐」",314
+http://i.iill.top:12838/yy/314
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/68299&yy&logo" group-title="•歪歪「娱乐」",清越
 http://i.iill.top:12838/yy/68299
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1745&yy&logo" group-title="•歪歪「娱乐」",Kk
 http://i.iill.top:12838/yy/1745
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1670&yy&logo" group-title="•歪歪「娱乐」",迎迎
 http://i.iill.top:12838/yy/1670
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9490&yy&logo" group-title="•歪歪「娱乐」",白微
+http://i.iill.top:12838/yy/9490
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11858&yy&logo" group-title="•歪歪「娱乐」",骚程程
+http://i.iill.top:12838/yy/11858
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1453810838&yy&logo" group-title="•歪歪「影视」",亮剑
 http://i.iill.top:12838/yy/1453810838
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/504368&yy&logo" group-title="•歪歪「影视」",小甜甜-悬疑电视剧
@@ -680,36 +750,42 @@ http://i.iill.top:12838/huya/16289380
 http://i.iill.top:12838/huya/26355760
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11602032&huya&logo" group-title="•虎牙「其他」",易中天品三国
 http://i.iill.top:12838/huya/11602032
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/19491628&huya&logo" group-title="•虎牙「其他」",嘉嘉
-http://i.iill.top:12838/huya/19491628
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/29578698&huya&logo" group-title="•虎牙「其他」",阳仔体育
-http://i.iill.top:12838/huya/29578698
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/28511836&huya&logo" group-title="•虎牙「其他」",JJ麻将
 http://i.iill.top:12838/huya/28511836
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/24782284&huya&logo" group-title="•虎牙「其他」",炊烟大壮
 http://i.iill.top:12838/huya/24782284
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/503708&huya&logo" group-title="•虎牙「娱乐」",小予神
-http://i.iill.top:12838/huya/503708
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/9120&huya&logo" group-title="•虎牙「娱乐」",九兔
+http://i.iill.top:12838/huya/9120
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/520314&huya&logo" group-title="•虎牙「娱乐」",千雅
+http://i.iill.top:12838/huya/520314
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/1995&huya&logo" group-title="•虎牙「娱乐」",小小小酷哥
+http://i.iill.top:12838/huya/1995
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/229085&huya&logo" group-title="•虎牙「娱乐」",Dae、红莲
+http://i.iill.top:12838/huya/229085
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/138168&huya&logo" group-title="•虎牙「娱乐」",纯情宣贵人
+http://i.iill.top:12838/huya/138168
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/95920&huya&logo" group-title="•虎牙「娱乐」",95920
+http://i.iill.top:12838/huya/95920
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/4211&huya&logo" group-title="•虎牙「娱乐」",VIKI
+http://i.iill.top:12838/huya/4211
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/134769&huya&logo" group-title="•虎牙「娱乐」",张伟丽MMA
 http://i.iill.top:12838/huya/134769
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/143721&huya&logo" group-title="•虎牙「娱乐」",HY-铃初初
-http://i.iill.top:12838/huya/143721
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/859042&huya&logo" group-title="•虎牙「娱乐」",正恒-紫宸【相声木兰】
 http://i.iill.top:12838/huya/859042
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/21059572&huya&logo" group-title="•虎牙「娱乐」",粤语电影放映厅
 http://i.iill.top:12838/huya/21059572
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30157733&huya&logo" group-title="•虎牙「娱乐」",HX禾禾
-http://i.iill.top:12838/huya/30157733
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/499213&huya&logo" group-title="•虎牙「娱乐」",柔弱不能自理的舒芙蕾
-http://i.iill.top:12838/huya/499213
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/128734&huya&logo" group-title="•虎牙「娱乐」",小笼包
 http://i.iill.top:12838/huya/128734
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/713280&huya&logo" group-title="•虎牙「娱乐」",林晚意
+http://i.iill.top:12838/huya/713280
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•虎牙「娱乐」",重案六组
 http://i.iill.top:12838/huya/23482266
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•虎牙「娱乐」",银宝儿
-http://i.iill.top:12838/huya/137496
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•虎牙「娱乐」",花千骨
 http://i.iill.top:12838/huya/26355839
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/19562307&huya&logo" group-title="•虎牙「娱乐」",三国杀 - 虎牙-尘殇
+http://i.iill.top:12838/huya/19562307
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30702935&huya&logo" group-title="•虎牙「娱乐」",满创-温妤
+http://i.iill.top:12838/huya/30702935
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/152698&huya&logo" group-title="•虎牙「娱乐」",JJ斗地主
 http://i.iill.top:12838/huya/152698
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/17091681&huya&logo" group-title="•虎牙「影视」",音乐石榴「音乐」
@@ -736,6 +812,8 @@ http://i.iill.top:12838/huya/11342386
 http://i.iill.top:12838/huya/23903123
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342421&huya&logo" group-title="•虎牙「影视」",7喜先生
 http://i.iill.top:12838/huya/11342421
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/23796393&huya&logo" group-title="•虎牙「影视」",赢城-江爽
+http://i.iill.top:12838/huya/23796393
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/26355802&huya&logo" group-title="•虎牙「影视」",之而成冠毛
 http://i.iill.top:12838/huya/26355802
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11602068&huya&logo" group-title="•虎牙「影视」",我爱黑科技
@@ -832,6 +910,8 @@ http://i.iill.top:12838/huya/11352970
 http://i.iill.top:12838/huya/21059567
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342425&huya&logo" group-title="•虎牙「影视」",神探
 http://i.iill.top:12838/huya/11342425
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/26355781&huya&logo" group-title="•虎牙「影视」",探索
+http://i.iill.top:12838/huya/26355781
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342424&huya&logo" group-title="•虎牙「影视」",刘德华
 http://i.iill.top:12838/huya/11342424
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/26355856&huya&logo" group-title="•虎牙「影视」",大宋
@@ -910,6 +990,8 @@ http://i.iill.top:12838/huya/22592516
 http://i.iill.top:12838/huya/11336726
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11352882&huya&logo" group-title="•虎牙「影视」",网球王子|我们都爱笑
 http://i.iill.top:12838/huya/11352882
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/25646817&huya&logo" group-title="•虎牙「影视」",周星星|SJ-安安小兔子
+http://i.iill.top:12838/huya/25646817
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/26355793&huya&logo" group-title="•虎牙「影视」",錦丹广明
 http://i.iill.top:12838/huya/26355793
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11601970&huya&logo" group-title="•虎牙「影视」",征服
@@ -940,6 +1022,8 @@ http://i.iill.top:12838/huya/23903183
 http://i.iill.top:12838/huya/11342385
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30080229&huya&logo" group-title="•虎牙「影视」",狄仁杰电影
 http://i.iill.top:12838/huya/30080229
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/14734068&huya&logo" group-title="•虎牙「影视」",泛爱心说剧
+http://i.iill.top:12838/huya/14734068
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•虎牙「影视」",小松说剧
 http://i.iill.top:12838/huya/11593369
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11352883&huya&logo" group-title="•虎牙「影视」",鬼吹灯
@@ -954,12 +1038,18 @@ http://i.iill.top:12838/huya/11352898
 http://i.iill.top:12838/huya/11602075
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11601957&huya&logo" group-title="•虎牙「影视」",鬼吹灯之昆仑神宫
 http://i.iill.top:12838/huya/11601957
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11601966&huya&logo" group-title="•虎牙「影视」",七龙珠改-超级赛亚人孙悟空
+http://i.iill.top:12838/huya/11601966
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11352913&huya&logo" group-title="•虎牙「影视」",古墓系列-去冒险吧!
 http://i.iill.top:12838/huya/11352913
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11602069&huya&logo" group-title="•虎牙「影视」",向阳花-神奇宝贝
 http://i.iill.top:12838/huya/11602069
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342394&huya&logo" group-title="•虎牙「影视」",樱桃小丸子
 http://i.iill.top:12838/huya/11342394
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30219264&huya&logo" group-title="•虎牙「影视」",燕双鹰
+http://i.iill.top:12838/huya/30219264
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/26355767&huya&logo" group-title="•虎牙「影视」",乌龙闯情关
+http://i.iill.top:12838/huya/26355767
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342430&huya&logo" group-title="•虎牙「影视」",领带哥
 http://i.iill.top:12838/huya/11342430
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•虎牙「影视」",大盛魁
@@ -1010,8 +1100,14 @@ http://i.iill.top:12838/huya/20969142
 http://i.iill.top:12838/huya/11342402
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342439&huya&logo" group-title="•虎牙「影视」",我是詹密
 http://i.iill.top:12838/huya/11342439
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30590779&huya&logo" group-title="•虎牙「影视」",新橙记
+http://i.iill.top:12838/huya/30590779
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30363727&huya&logo" group-title="•虎牙「影视」",古惑仔1
+http://i.iill.top:12838/huya/30363727
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11342414&huya&logo" group-title="•虎牙「影视」",元芳看不到
 http://i.iill.top:12838/huya/11342414
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30595139&huya&logo" group-title="•虎牙「影视」",婉晴ctde
+http://i.iill.top:12838/huya/30595139
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/29982636&huya&logo" group-title="•虎牙「影视」",特种兵|火凤凰
 http://i.iill.top:12838/huya/29982636
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11336592&huya&logo" group-title="•虎牙「影视」",雪中悍刀行
@@ -1024,6 +1120,8 @@ http://i.iill.top:12838/huya/30439802
 http://i.iill.top:12838/huya/23650804
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/21059588&huya&logo" group-title="•虎牙「影视」",虎牙21059588
 http://i.iill.top:12838/huya/21059588
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30523326&huya&logo" group-title="•虎牙「影视」",家有儿女
+http://i.iill.top:12838/huya/30523326
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30080148&huya&logo" group-title="•虎牙「影视」",国语版柯南，点到哪集看哪集
 http://i.iill.top:12838/huya/30080148
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/26355806&huya&logo" group-title="•虎牙「影视」",山翠浪
@@ -1046,6 +1144,12 @@ http://i.iill.top:12838/huya/29465851
 http://i.iill.top:12838/huya/23650774
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/967722&huya&logo" group-title="•虎牙「游戏」",967722
 http://i.iill.top:12838/huya/967722
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/88863&huya&logo" group-title="•虎牙「游戏」",拉风龙
+http://i.iill.top:12838/huya/88863
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/705112&huya&logo" group-title="•虎牙「游戏」",老鬼
+http://i.iill.top:12838/huya/705112
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/651353&huya&logo" group-title="•虎牙「游戏」",猪猪小悠
+http://i.iill.top:12838/huya/651353
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/298416&huya&logo" group-title="•虎牙「游戏」",德云两鬼
 http://i.iill.top:12838/huya/298416
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/836458&huya&logo" group-title="•虎牙「游戏」",微竞、莎莉
@@ -1054,8 +1158,14 @@ http://i.iill.top:12838/huya/836458
 http://i.iill.top:12838/huya/660149
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/189201&huya&logo" group-title="•虎牙「游戏」",霸哥
 http://i.iill.top:12838/huya/189201
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/18958992&huya&logo" group-title="•虎牙「游戏」",War3魔尊重楼
+http://i.iill.top:12838/huya/18958992
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/959242&huya&logo" group-title="•虎牙「游戏」",老佳
+http://i.iill.top:12838/huya/959242
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/910323&huya&logo" group-title="•虎牙「游戏」",驴鸽
 http://i.iill.top:12838/huya/910323
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/102411&huya&logo" group-title="•虎牙「游戏」",神超
+http://i.iill.top:12838/huya/102411
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/181469&huya&logo" group-title="•虎牙「游戏」",张嘉文
 http://i.iill.top:12838/huya/181469
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/441195&huya&logo" group-title="•虎牙「游戏」",胖炸
@@ -1068,51 +1178,83 @@ http://i.iill.top:12838/huya/691406
 http://i.iill.top:12838/huya/847243
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/825290&huya&logo" group-title="•虎牙「游戏」", 弃徒x
 http://i.iill.top:12838/huya/825290
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/31421&huya&logo" group-title="•虎牙「游戏」",慎独
+http://i.iill.top:12838/huya/31421
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/326513&huya&logo" group-title="•虎牙「游戏」",XLX露雪
 http://i.iill.top:12838/huya/326513
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/531309&huya&logo" group-title="•虎牙「游戏」",MT丶季多鱼
 http://i.iill.top:12838/huya/531309
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/657314&huya&logo" group-title="•虎牙「游戏」",虎牙丶三伟子
 http://i.iill.top:12838/huya/657314
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/257085&huya&logo" group-title="•虎牙「游戏」",小超梦
-http://i.iill.top:12838/huya/257085
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/328340&huya&logo" group-title="•虎牙「游戏」",冰封三国杀
-http://i.iill.top:12838/huya/328340
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/196645&huya&logo" group-title="•虎牙「游戏」",浪D
 http://i.iill.top:12838/huya/196645
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/12214&huya&logo" group-title="•虎牙「游戏」",十四剑姬
 http://i.iill.top:12838/huya/12214
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/721954&huya&logo" group-title="•虎牙「游戏」",YX丶浮光
+http://i.iill.top:12838/huya/721954
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/998&huya&logo" group-title="•虎牙「游戏」",楚河
+http://i.iill.top:12838/huya/998
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/691346&huya&logo" group-title="•虎牙「游戏」",宇晨
+http://i.iill.top:12838/huya/691346
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/193868&huya&logo" group-title="•虎牙「游戏」",微竞-完美OB
 http://i.iill.top:12838/huya/193868
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/11424&huya&logo" group-title="•虎牙「游戏」",CF.宠儿
+http://i.iill.top:12838/huya/11424
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/330679&huya&logo" group-title="•虎牙「游戏」",怀逝
+http://i.iill.top:12838/huya/330679
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/520123&huya&logo" group-title="•虎牙「游戏」",疯行兄弟
+http://i.iill.top:12838/huya/520123
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/265386&huya&logo" group-title="•虎牙「游戏」",风骨
+http://i.iill.top:12838/huya/265386
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/109810&huya&logo" group-title="•虎牙「游戏」",Kimmy
+http://i.iill.top:12838/huya/109810
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/51106&huya&logo" group-title="•虎牙「游戏」",口袋
+http://i.iill.top:12838/huya/51106
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/703000&huya&logo" group-title="•虎牙「游戏」",幻灭
+http://i.iill.top:12838/huya/703000
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/172392&huya&logo" group-title="•虎牙「游戏」",寒星
 http://i.iill.top:12838/huya/172392
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30256056&huya&logo" group-title="•虎牙「游戏」",820
+http://i.iill.top:12838/huya/30256056
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/178489&huya&logo" group-title="•虎牙「游戏」",Jimmy吉米叽
+http://i.iill.top:12838/huya/178489
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/940213&huya&logo" group-title="•虎牙「游戏」",非凡-迪安
 http://i.iill.top:12838/huya/940213
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/990258&huya&logo" group-title="•虎牙「游戏」",毒纪
-http://i.iill.top:12838/huya/990258
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/135792&huya&logo" group-title="•虎牙「游戏」",恬柚睡着惹
-http://i.iill.top:12838/huya/135792
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/139258&huya&logo" group-title="•虎牙「游戏」",小草包QAQ
+http://i.iill.top:12838/huya/139258
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/775178&huya&logo" group-title="•虎牙「游戏」",Mint万坤
+http://i.iill.top:12838/huya/775178
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/713320&huya&logo" group-title="•虎牙「游戏」",巅峰丶阳酱吖
 http://i.iill.top:12838/huya/713320
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/18842814&huya&logo" group-title="•虎牙「游戏」",圣逸-iu
-http://i.iill.top:12838/huya/18842814
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/513723&huya&logo" group-title="•虎牙「游戏」",逗豆爱格斗
 http://i.iill.top:12838/huya/513723
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/211202&huya&logo" group-title="•虎牙「游戏」",寒千落丶
-http://i.iill.top:12838/huya/211202
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/24572223&huya&logo" group-title="•虎牙「游戏」",小孩无敌
+http://i.iill.top:12838/huya/24572223
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/829922&huya&logo" group-title="•虎牙「游戏」",War3Yumiko
 http://i.iill.top:12838/huya/829922
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/400298&huya&logo" group-title="•虎牙「游戏」",鲨鱼呦
 http://i.iill.top:12838/huya/400298
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/965867&huya&logo" group-title="•虎牙「游戏」",皮皮限
+http://i.iill.top:12838/huya/965867
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/170280&huya&logo" group-title="•虎牙「游戏」",狼王沃李克
 http://i.iill.top:12838/huya/170280
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/487836&huya&logo" group-title="•虎牙「游戏」",象棋戴少帅
 http://i.iill.top:12838/huya/487836
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/25045889&huya&logo" group-title="•虎牙「游戏」",龙小喵喵喵
+http://i.iill.top:12838/huya/25045889
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/988&huya&logo" group-title="•虎牙「游戏」",悲喜
 http://i.iill.top:12838/huya/988
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/152694&huya&logo" group-title="•虎牙「游戏」",杨齐家丶随便掏
+http://i.iill.top:12838/huya/152694
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/660729&huya&logo" group-title="•虎牙「游戏」",BLAST赛事主舞台
 http://i.iill.top:12838/huya/660729
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/761174&huya&logo" group-title="•虎牙「游戏」",DK-阿顺
+http://i.iill.top:12838/huya/761174
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•虎牙「游戏」",解说Suki
+http://i.iill.top:12838/huya/517407
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/473271&huya&logo" group-title="•虎牙「游戏」",DOTA2赛事直播
 http://i.iill.top:12838/huya/473271
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/30695684&huya&logo" group-title="•虎牙「影视」",大仙爱电影
 http://i.iill.top:12838/huya/30695684
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/6154&yy&logo" group-title="•歪歪「娱乐」",6154
+http://i.iill.top:12838/yy/6154
