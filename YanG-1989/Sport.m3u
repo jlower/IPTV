@@ -86,7 +86,7 @@ https://tv.iill.top/beesport/Sky_Sports_F1_Live_TV|Referer=https://p.lioncdn.net
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Golf_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="SkySp Racing" tvg-name="SkySp Racing" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Racing.png" group-title="•體育賽事", Sky Sports Racing
+#EXTINF:-1 tvg-id="SkySp Racing HD" tvg-name="SkySp Racing HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Racing.png" group-title="•體育賽事", Sky Sports Racing
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Sky_Sports_Racing_Live_TV|Referer=https://p.lioncdn.net/
@@ -216,67 +216,67 @@ https://tv.iill.top/beesport/Bein_Sports_USA_Live_TV|Referer=https://p.lioncdn.n
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Bein_Sports_English_2_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="SuperSport-Premier-League" tvg-name="SuperSport Premier League" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Premier-League.png" group-title="•體育賽事", SuperSport Premier League
+#EXTINF:-1 tvg-id="SS Premier-League" tvg-name="SS Premier League" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Premier-League.png" group-title="•體育賽事", SuperSport Premier League
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/SuperSport_Premier_League_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="SuperSport-LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://epg-1.iill.top/logo/SuperSport-LaLiga.png" group-title="•體育賽事", SuperSport LaLiga
+#EXTINF:-1 tvg-id="SS La Liga" tvg-name="SS La Liga" tvg-logo="https://epg-1.iill.top/logo/SuperSport-LaLiga.png" group-title="•體育賽事", SuperSport La Liga
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/SuperSport_LaLiga_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="SuperSport-Action" tvg-name="SuperSport Action" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Action.png" group-title="•體育賽事", SuperSport Action
+#EXTINF:-1 tvg-id="SS Action" tvg-name="SS Action" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Action.png" group-title="•體育賽事", SuperSport Action
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/SuperSport_Action_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="SuperSport-Blitz" tvg-name="SuperSport Blitz" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Blitz.png" group-title="•體育賽事", SuperSport Blitz
+#EXTINF:-1 tvg-id="BLITZ" tvg-name="BLITZ" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Blitz.png" group-title="•體育賽事", SuperSport Blitz
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/SuperSport_Blitz_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="SuperSport-Cricket" tvg-name="SuperSport Cricket" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Cricket.png" group-title="•體育賽事", SuperSport Cricket
+#EXTINF:-1 tvg-id="CRICKET" tvg-name="CRICKET" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Cricket.png" group-title="•體育賽事", SuperSport Cricket
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/SuperSport_Cricket_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="SuperSport-Football" tvg-name="SuperSport Football" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Football.png" group-title="•體育賽事", SuperSport Football
+#EXTINF:-1 tvg-id="SS Football" tvg-name="SS Football" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Football.png" group-title="•體育賽事", SuperSport Football
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/SuperSport_Football_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="SuperSport-Golf" tvg-name="SuperSport Golf" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Golf.png" group-title="•體育賽事", SuperSport Golf
+#EXTINF:-1 tvg-id="GOLF" tvg-name="GOLF" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Golf.png" group-title="•體育賽事", SuperSport Golf
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/SuperSport_Golf_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="SuperSport-Rugby" tvg-name="SuperSport Rugby" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Rugby.png" group-title="•體育賽事", SuperSport Rugby
+#EXTINF:-1 tvg-id="RUGBY" tvg-name="RUGBY" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Rugby.png" group-title="•體育賽事", SuperSport Rugby
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/SuperSport_Rugby_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="SuperSport-Tennis" tvg-name="SuperSport Tennis" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Tennis.png" group-title="•體育賽事", SuperSport Tennis
+#EXTINF:-1 tvg-id="TENNIS" tvg-name="TENNIS" tvg-logo="https://epg-1.iill.top/logo/SuperSport-Tennis.png" group-title="•體育賽事", SuperSport Tennis
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/SuperSport_Tennis_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Variety-1" tvg-name="Variety 1" tvg-logo="https://epg-1.iill.top/logo/Variety-1.png" group-title="•體育賽事", Variety 1
+#EXTINF:-1 tvg-id="SS Variety 1" tvg-name="SS Variety 1" tvg-logo="https://epg-1.iill.top/logo/Variety-1.png" group-title="•體育賽事", Variety 1
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Variety_1_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Variety-2" tvg-name="Variety 2" tvg-logo="https://epg-1.iill.top/logo/Variety-2.png" group-title="•體育賽事", Variety 2
+#EXTINF:-1 tvg-id="SS Variety 2" tvg-name="SS Variety 2" tvg-logo="https://epg-1.iill.top/logo/Variety-2.png" group-title="•體育賽事", Variety 2
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Variety_2_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Variety-3" tvg-name="Variety 3" tvg-logo="https://epg-1.iill.top/logo/Variety-3.png" group-title="•體育賽事", Variety 3
+#EXTINF:-1 tvg-id="SS Variety 3" tvg-name="SS Variety 3" tvg-logo="https://epg-1.iill.top/logo/Variety-3.png" group-title="•體育賽事", Variety 3
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Variety_3_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Variety-4" tvg-name="Variety 4" tvg-logo="https://epg-1.iill.top/logo/Variety-4.png" group-title="•體育賽事", Variety 4
+#EXTINF:-1 tvg-id="SS Variety 4" tvg-name="SS Variety 4" tvg-logo="https://epg-1.iill.top/logo/Variety-4.png" group-title="•體育賽事", Variety 4
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Variety_4_Live_TV|Referer=https://p.lioncdn.net/
@@ -291,27 +291,27 @@ https://tv.iill.top/beesport/Eurosport_1_Live_TV|Referer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Eurosport_2_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Premier-Sports-1" tvg-name="Premier Sports 1" tvg-logo="https://epg-1.iill.top/logo/Premier-Sports-1.png" group-title="•體育賽事", Premier Sports 1
+#EXTINF:-1 tvg-id="Premier Sports 1 HD" tvg-name="Premier Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/Premier-Sports-1.png" group-title="•體育賽事", Premier Sports 1
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Premier_Sports_1|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Premier-Sports-2" tvg-name="Premier Sports 2" tvg-logo="https://epg-1.iill.top/logo/Premier-Sports-2.png" group-title="•體育賽事", Premier Sports 2
+#EXTINF:-1 tvg-id="Premier Sports 2 HD" tvg-name="Premier Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/Premier-Sports-2.png" group-title="•體育賽事", Premier Sports 2
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Premier_Sports_2|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="Golf-Channel" tvg-name="Golf Channel" tvg-logo="https://epg-1.iill.top/logo/Golf-Channel.png" group-title="•體育賽事", Golf Channel
+#EXTINF:-1 tvg-id="Golf Channel HD" tvg-name="Golf Channel HD" tvg-logo="https://epg-1.iill.top/logo/Golf-Channel.png" group-title="•體育賽事", Golf Channel
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Golf_Channel_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://epg-1.iill.top/logo/MLB-Network.png" group-title="•體育賽事", MLB Network
+#EXTINF:-1 tvg-id="MLB Network HD" tvg-name="MLB Network HD" tvg-logo="https://epg-1.iill.top/logo/MLB-Network.png" group-title="•體育賽事", MLB Network
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/MLB_Network_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://epg-1.iill.top/logo/NBA-TV.png" group-title="•體育賽事", NBA TV
+#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="https://epg-1.iill.top/logo/NBA-TV.png" group-title="•體育賽事", NBA TV
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/NBA_TV_Live_TV|Referer=https://p.lioncdn.net/
@@ -331,7 +331,7 @@ https://tv.iill.top/beesport/NFL_REDZONE_Live_TV|Referer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/NHL_Network_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://epg-1.iill.top/logo/WWE.png" group-title="•體育賽事", WWE
+#EXTINF:-1 tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://epg-1.iill.top/logo/WWE.png" group-title="•體育賽事", WWE
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/WWE_Live_TV|Referer=https://p.lioncdn.net/
@@ -346,7 +346,7 @@ https://tv.iill.top/beesport/Willow_Cricket_Live_TV|Referer=https://p.lioncdn.ne
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/Willow_Extra_Live_TV|Referer=https://p.lioncdn.net/
 
-#EXTINF:-1 tvg-id="World-Fishing-Network" tvg-name="World Fishing Network" tvg-logo="https://epg-1.iill.top/logo/World-Fishing-Network.png" group-title="•體育賽事", World Fishing Network
+#EXTINF:-1 tvg-id="World Fishing Network HD (US)" tvg-name="World Fishing Network HD (US)" tvg-logo="https://epg-1.iill.top/logo/World-Fishing-Network.png" group-title="•體育賽事", World Fishing Network
 #EXTVLCOPT:http-referrer=https://p.lioncdn.net/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.lioncdn.net/
 https://tv.iill.top/beesport/World_Fishing_Network_Live_TV|Referer=https://p.lioncdn.net/
