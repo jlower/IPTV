@@ -65,3 +65,61 @@
 > [**`iptv-org 项目全量 源码`**](https://iptv-org.github.io/iptv/index.m3u) : https://iptv-org.github.io/iptv/index.m3u
 > 
 > [**`iptv-org 项目全量 自加速`**](https://iptv.lowoneko.eu.org/iptv-org/index.m3u) : https://iptv.lowoneko.eu.org/iptv-org/index.m3u
+
+## [pxiptv 项目](https://github.com/pxiptv/live)
+
+> [**`pxiptv 项目 源码`**](https://raw.githubusercontent.com/pxiptv/live/refs/heads/main/iptv.m3u) : https://raw.githubusercontent.com/pxiptv/live/refs/heads/main/iptv.m3u
+> 
+> [**`pxiptv 项目 自加速`**](https://iptv.lowoneko.eu.org/pxiptv/iptv.m3u) : https://iptv.lowoneko.eu.org/pxiptv/iptv.m3u
+
+## [svefnz 项目](https://github.com/svefnz/IPTVN)
+
+> [**`svefnz 项目 Adult 源码`**](https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/Adult.m3u) : https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/Adult.m3u
+> 
+> [**`svefnz 项目 Adult 自加速`**](https://iptv.lowoneko.eu.org/svefnz/Adult.m3u) : https://iptv.lowoneko.eu.org/svefnz/Adult.m3u
+> 
+> [**`svefnz 项目 CCTV-IPV4 源码`**](https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CCTV-IPV4.m3u) : https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CCTV-IPV4.m3u
+> 
+> [**`svefnz 项目 CCTV-IPV4 自加速`**](https://iptv.lowoneko.eu.org/svefnz/CCTV-IPV4.m3u) : https://iptv.lowoneko.eu.org/svefnz/CCTV-IPV4.m3u
+> 
+> [**`svefnz 项目 CCTV 源码`**](https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CCTV.m3u) : https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CCTV.m3u
+> 
+> [**`svefnz 项目 CCTV 自加速`**](https://iptv.lowoneko.eu.org/svefnz/CCTV.m3u) : https://iptv.lowoneko.eu.org/svefnz/CCTV.m3u
+>
+> [**`svefnz 项目 CNTV-IPV4 源码`**](https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CNTV-IPV4.m3u) : https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CNTV-IPV4.m3u
+> 
+> [**`svefnz 项目 CNTV-IPV4 自加速`**](https://iptv.lowoneko.eu.org/svefnz/CNTV-IPV4.m3u) : https://iptv.lowoneko.eu.org/svefnz/CNTV-IPV4.m3u
+> 
+> [**`svefnz 项目 CNTV 源码`**](https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CNTV.m3u) : https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CNTV.m3u
+> 
+> [**`svefnz 项目 CNTV 自加速`**](https://iptv.lowoneko.eu.org/svefnz/CNTV.m3u) : https://iptv.lowoneko.eu.org/svefnz/CNTV.m3u
+>
+> [**`svefnz 项目 IPTV 源码`**](https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/IPTV.m3u) : https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/IPTV.m3u
+> 
+> [**`svefnz 项目 IPTV 自加速`**](https://iptv.lowoneko.eu.org/svefnz/IPTV.m3u) : https://iptv.lowoneko.eu.org/svefnz/IPTV.m3u
+> 
+> [**`svefnz 项目 IPV4 源码`**](https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/IPV4.m3u) : https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/IPV4.m3u
+> 
+> [**`svefnz 项目 IPV4 自加速`**](https://iptv.lowoneko.eu.org/svefnz/IPV4.m3u) : https://iptv.lowoneko.eu.org/svefnz/IPV4.m3u
+>
+> [**`svefnz 项目 TEST 源码`**](https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/TEST.m3u) : https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/TEST.m3u
+> 
+> [**`svefnz 项目 TEST 自加速`**](https://iptv.lowoneko.eu.org/svefnz/TEST.m3u) : https://iptv.lowoneko.eu.org/svefnz/TEST.m3u
+> 
+> [**`svefnz 项目 phoenix 源码`**](https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/phoenix.m3u) : https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/phoenix.m3u
+> 
+> [**`svefnz 项目 phoenix 自加速`**](https://iptv.lowoneko.eu.org/svefnz/phoenix.m3u) : https://iptv.lowoneko.eu.org/svefnz/phoenix.m3u
+
+## [vicjl 项目](https://github.com/vicjl/myIPTV)
+
+> [**`vicjl 项目 IPTV 源码`**](https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/IPTV.m3u) : https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/IPTV.m3u
+> 
+> [**`vicjl 项目 IPTV 自加速`**](https://iptv.lowoneko.eu.org/vicjl/IPTV.m3u) : https://iptv.lowoneko.eu.org/vicjl/IPTV.m3u
+>
+> [**`vicjl 项目 TV-IPV4 源码`**](https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/TV-IPV4.m3u) : https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/TV-IPV4.m3u
+> 
+> [**`vicjl 项目 TV-IPV4 自加速`**](https://iptv.lowoneko.eu.org/vicjl/TV-IPV4.m3u) : https://iptv.lowoneko.eu.org/vicjl/TV-IPV4.m3u
+>
+> [**`vicjl 项目 sdyd-iptv 源码`**](https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/sdyd-iptv.m3u) : https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/sdyd-iptv.m3u
+> 
+> [**`vicjl 项目 sdyd-iptv 自加速`**](https://iptv.lowoneko.eu.org/vicjl/sdyd-iptv.m3u) : https://iptv.lowoneko.eu.org/vicjl/sdyd-iptv.m3u
