@@ -43,26 +43,6 @@
 > [**`YueChan IPTV 源码`**](https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u) : https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
 > 
 > [**`YueChan IPTV 自加速`**](https://iptv.lowoneko.eu.org/YueChan/IPTV.m3u) : https://iptv.lowoneko.eu.org/YueChan/IPTV.m3u
->
-> [**`YueChan Hunan 源码`**](https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Hunan.m3u) : https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Hunan.m3u
-> 
-> [**`YueChan Hunan 自加速`**](https://iptv.lowoneko.eu.org/YueChan/Hunan.m3u) : https://iptv.lowoneko.eu.org/YueChan/Hunan.m3u
->
-> [**`YueChan Adult 源码`**](https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u) : https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u
-> 
-> [**`YueChan Adult 自加速`**](https://iptv.lowoneko.eu.org/YueChan/Adult.m3u) : https://iptv.lowoneko.eu.org/YueChan/Adult.m3u
->
-> [**`YueChan APTV 源码`**](https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u) : https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
-> 
-> [**`YueChan APTV 自加速`**](https://iptv.lowoneko.eu.org/YueChan/APTV.m3u) : https://iptv.lowoneko.eu.org/YueChan/APTV.m3u
->
-> [**`YueChan Global 源码`**](https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u) : https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
-> 
-> [**`YueChan Global 自加速`**](https://iptv.lowoneko.eu.org/YueChan/Global.m3u) : https://iptv.lowoneko.eu.org/YueChan/Global.m3u
->
-> [**`YueChan Radio 源码`**](https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u) : https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
-> 
-> [**`YueChan Radio 自加速`**](https://iptv.lowoneko.eu.org/YueChan/Radio.m3u) : https://iptv.lowoneko.eu.org/YueChan/Radio.m3u
 
 ## [Guovin IPTV源](https://github.com/Guovin/iptv-api)
 
