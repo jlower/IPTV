@@ -54,7 +54,20 @@ jobs:
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/Guovin-result.m3u https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/vbskycn-iptv4.m3u https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
           wget --tries=7 --wait=2 --waitretry=5 -c -O temp/vbskycn-iptv6.m3u https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
-
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/pxiptv-iptv.m3u https://raw.githubusercontent.com/pxiptv/live/refs/heads/main/iptv.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/svefnz-Adult.m3u https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/Adult.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/svefnz-CCTV-IPV4.m3u https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CCTV-IPV4.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/svefnz-CCTV.m3u https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CCTV.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/svefnz-CNTV-IPV4.m3u https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CNTV-IPV4.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/svefnz-CNTV.m3u https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/CNTV.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/svefnz-IPTV.m3u https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/IPTV.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/svefnz-IPV4.m3u https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/IPV4.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/svefnz-TEST.m3u https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/TEST.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/svefnz-phoenix.m3u https://raw.githubusercontent.com/svefnz/IPTVN/refs/heads/Files/phoenix.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/vicjl-IPTV.m3u https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/IPTV.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/vicjl-TV-IPV4.m3u https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/TV-IPV4.m3u
+          wget --tries=7 --wait=2 --waitretry=5 -c -O temp/vicjl-sdyd-iptv.m3u https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/sdyd-iptv.m3u
+          
       # Step 3: 移动文件到 fanmingming 文件夹（自动创建或覆盖）
       - name: Move file to folder fanmingming
         run: |
@@ -78,63 +91,28 @@ jobs:
 
           # 覆盖同名文件（无需额外检查）
           mv temp/YanG-1989-Gather-simple.m3u $TARGET_FILE
-
-      # Step 3: 移动文件到 YanG-1989 文件夹（自动创建或覆盖）
-      - name: Move file to folder YanG-1989
-        run: |
-          TARGET_FOLDER=YanG-1989
+          
           TARGET_FILE=$TARGET_FOLDER/Gather.m3u
-
-          # 确保目标文件夹存在
-          mkdir -p $TARGET_FOLDER
 
           # 覆盖同名文件（无需额外检查）
           mv temp/YanG-1989-Gather.m3u $TARGET_FILE          
 
-      # Step 3: 移动文件到 YanG-1989 文件夹（自动创建或覆盖）
-      - name: Move file to folder YanG-1989
-        run: |
-          TARGET_FOLDER=YanG-1989
           TARGET_FILE=$TARGET_FOLDER/Sport.m3u
-
-          # 确保目标文件夹存在
-          mkdir -p $TARGET_FOLDER
 
           # 覆盖同名文件（无需额外检查）
           mv temp/YanG-1989-Sport.m3u $TARGET_FILE         
 
-      # Step 3: 移动文件到 YanG-1989 文件夹（自动创建或覆盖）
-      - name: Move file to folder YanG-1989
-        run: |
-          TARGET_FOLDER=YanG-1989
           TARGET_FILE=$TARGET_FOLDER/Live.m3u
-
-          # 确保目标文件夹存在
-          mkdir -p $TARGET_FOLDER
 
           # 覆盖同名文件（无需额外检查）
           mv temp/YanG-1989-Live.m3u $TARGET_FILE    
 
-      # Step 3: 移动文件到 YanG-1989 文件夹（自动创建或覆盖）
-      - name: Move file to folder YanG-1989
-        run: |
-          TARGET_FOLDER=YanG-1989
           TARGET_FILE=$TARGET_FOLDER/MyTV.m3u
-
-          # 确保目标文件夹存在
-          mkdir -p $TARGET_FOLDER
 
           # 覆盖同名文件（无需额外检查）
           mv temp/YanG-1989-MyTV.m3u $TARGET_FILE 
 
-      # Step 3: 移动文件到 YanG-1989 文件夹（自动创建或覆盖）
-      - name: Move file to folder YanG-1989
-        run: |
-          TARGET_FOLDER=YanG-1989
           TARGET_FILE=$TARGET_FOLDER/Gather-movie.json
-
-          # 确保目标文件夹存在
-          mkdir -p $TARGET_FOLDER
 
           # 覆盖同名文件（无需额外检查）
           mv temp/YanG-1989-Gather-movie.json $TARGET_FILE 
@@ -204,6 +182,92 @@ jobs:
           # 覆盖同名文件（无需额外检查）
           mv temp/vbskycn-iptv6.m3u $TARGET_FILE
 
+      # Step 3: 移动文件到 pxiptv 文件夹（自动创建或覆盖）
+      - name: Move file to folder pxiptv
+        run: |
+          TARGET_FOLDER=pxiptv
+          TARGET_FILE=$TARGET_FOLDER/iptv.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/pxiptv-iptv.m3u $TARGET_FILE
+
+      # Step 3: 移动文件到 svefnz 文件夹（自动创建或覆盖）
+      - name: Move file to folder svefnz
+        run: |
+          TARGET_FOLDER=svefnz
+          TARGET_FILE=$TARGET_FOLDER/Adult.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/svefnz-Adult.m3u $TARGET_FILE
+
+          TARGET_FILE=$TARGET_FOLDER/CCTV-IPV4.m3u
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/svefnz-CCTV-IPV4.m3u $TARGET_FILE
+
+          TARGET_FILE=$TARGET_FOLDER/CCTV.m3u
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/svefnz-CCTV.m3u $TARGET_FILE
+
+          TARGET_FILE=$TARGET_FOLDER/CNTV-IPV4.m3u
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/svefnz-CNTV-IPV4.m3u $TARGET_FILE
+
+          TARGET_FILE=$TARGET_FOLDER/CNTV.m3u
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/svefnz-CNTV.m3u $TARGET_FILE
+
+          TARGET_FILE=$TARGET_FOLDER/IPTV.m3u
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/svefnz-IPTV.m3u $TARGET_FILE
+
+          TARGET_FILE=$TARGET_FOLDER/IPV4.m3u
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/svefnz-IPV4.m3u $TARGET_FILE
+
+          TARGET_FILE=$TARGET_FOLDER/TEST.m3u
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/svefnz-TEST.m3u $TARGET_FILE
+
+          TARGET_FILE=$TARGET_FOLDER/phoenix.m3u
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/svefnz-phoenix.m3u $TARGET_FILE
+
+      # Step 3: 移动文件到 vicjl 文件夹（自动创建或覆盖）
+      - name: Move file to folder vicjl
+        run: |
+          TARGET_FOLDER=vicjl
+          TARGET_FILE=$TARGET_FOLDER/IPTV.m3u
+
+          # 确保目标文件夹存在
+          mkdir -p $TARGET_FOLDER
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/vicjl-IPTV.m3u $TARGET_FILE
+
+          TARGET_FILE=$TARGET_FOLDER/TV-IPV4.m3u
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/vicjl-TV-IPV4.m3u $TARGET_FILE
+
+          TARGET_FILE=$TARGET_FOLDER/sdyd-iptv.m3u
+
+          # 覆盖同名文件（无需额外检查）
+          mv temp/vicjl-sdyd-iptv.m3u $TARGET_FILE
+
       # Step 4: 提交并推送更改
       - name: Commit and push changes
         env:
@@ -219,6 +283,9 @@ jobs:
           git add YueChan/
           git add Guovin/
           git add vbskycn/
+          git add pxiptv/
+          git add svefnz/
+          git add vicjl/
           
 
           git commit -m "Update in folder" || echo "No changes to commit"
