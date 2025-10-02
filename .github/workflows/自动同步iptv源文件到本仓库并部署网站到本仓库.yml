@@ -33,7 +33,7 @@ jobs:
     steps:
       # Step 1: 克隆自己的仓库
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       # Step 2: 下载文件
       - name: Download file
@@ -299,9 +299,9 @@ jobs:
 
       # 部署页面
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./
 
