@@ -7,417 +7,417 @@ https://epg.iill.top/v/301.mp4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=707997da62f0cf66f214331b93c270c2&ext_start_limit=1759507860&int_start_limit=1759507860&ts=1759507860&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=d5988110dd825c37cc49e71020d7e21d&ext_start_limit=1759594260&int_start_limit=1759594260&ts=1759594260&c=121779152
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•熱門節目",翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=d12530bfd95375c161524ede347c4b1f&ext_start_limit=1759507860&int_start_limit=1759507860&ts=1759507860&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=836ab5d8e6ca3e594ad0b195e74a9af5&ext_start_limit=1759594260&int_start_limit=1759594260&ts=1759594260&c=121779152
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•熱門節目",TVB Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=917ac4b55fc71cc971a4a257ec0a4d3c&ext_start_limit=1759507860&int_start_limit=1759507860&ts=1759507860&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=a48cc9efe163abbc6a55860a09bfefc5&ext_start_limit=1759594261&int_start_limit=1759594261&ts=1759594261&c=121779152
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="•熱門節目",無綫新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=e967b263613963b353b28b32a1a3e11c&ext_start_limit=1759507861&int_start_limit=1759507861&ts=1759507861&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=190b62b7d9438a56713e20b6b4b917b4&ext_start_limit=1759594261&int_start_limit=1759594261&ts=1759594261&c=121779152
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•熱門節目",明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=a3fa97f41a3ec493c8b878f38d4263d4&ext_start_limit=1759507861&int_start_limit=1759507861&ts=1759507861&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=ed47b84fcccf5273e55e2cab2f7674a6&ext_start_limit=1759594262&int_start_limit=1759594262&ts=1759594262&c=121779152
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•鳳凰衛視",鳳凰衛視中文台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=967defc6d2e7dc786c36b9fa5983d794&ext_start_limit=1759507862&int_start_limit=1759507862&ts=1759507862&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=487a1ad6ff9c4503825d94b2fe9f5c6e&ext_start_limit=1759594262&int_start_limit=1759594262&ts=1759594262&c=121779152
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="•鳳凰衛視",鳳凰衛視資訊台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=a9bdc18b98dbef8d89e1358d52ba8ee3&ext_start_limit=1759507862&int_start_limit=1759507862&ts=1759507862&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=85d59915ebe4191be8590029429e6a82&ext_start_limit=1759594263&int_start_limit=1759594263&ts=1759594263&c=121779152
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="•鳳凰衛視",鳳凰衛視香港台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=bfe4ab6a43d8b325873b25973ada5884&ext_start_limit=1759507862&int_start_limit=1759507862&ts=1759507862&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=3896cb0a701ddbcada8d6c61c0c7557e&ext_start_limit=1759594263&int_start_limit=1759594263&ts=1759594263&c=121779152
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://epg.iill.top/logo/娛樂新聞.png" group-title="•新聞財經",娛樂新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=961ad4873bf1b49a27969cd480df8377&ext_start_limit=1759507863&int_start_limit=1759507863&ts=1759507863&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=85713797a4f15fb796cb37c66201097f&ext_start_limit=1759594264&int_start_limit=1759594264&ts=1759594264&c=121779152
 #EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•影視娛樂",SUPER FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=8c65023c32479d84d8b9574617e9e3a7&ext_start_limit=1759507863&int_start_limit=1759507863&ts=1759507863&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=c483d964765bbd494eb46042fcdcc1e1&ext_start_limit=1759594264&int_start_limit=1759594264&ts=1759594264&c=121779152
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•影視娛樂",黃金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=31812e882dd0d09b7b8c5257dce65ea2&ext_start_limit=1759507864&int_start_limit=1759507864&ts=1759507864&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=804d37c7e20761691d8bf18be62a8e0f&ext_start_limit=1759594265&int_start_limit=1759594265&ts=1759594265&c=121779152
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://epg.iill.top/logo/千禧经典.png" group-title="•影視娛樂",千禧經典台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVC_hevc/__op/cenc_m/__f/index.mpd?sig=6dab0260af318f92c1b1c1acbf6561a5&ext_start_limit=1759507864&int_start_limit=1759507864&ts=1759507864&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVC_hevc/__op/cenc_m/__f/index.mpd?sig=19b056c60a10e65dc3b3bd6bd0534dec&ext_start_limit=1759594265&int_start_limit=1759594265&ts=1759594265&c=121779152
 #EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://epg.iill.top/logo/华语剧.png" group-title="•影視娛樂",華語劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CDR3_hevc/__op/cenc_m/__f/index.mpd?sig=e68baeac3157c66e7ed66296c90676aa&ext_start_limit=1759507864&int_start_limit=1759507864&ts=1759507864&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CDR3_hevc/__op/cenc_m/__f/index.mpd?sig=3cd0eac29ead70fe7c531918abc1fb8b&ext_start_limit=1759594266&int_start_limit=1759594266&ts=1759594266&c=121779152
 #EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://epg.iill.top/logo/粤语片.png" group-title="•影視娛樂",粵語片台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCLM_hevc/__op/cenc_m/__f/index.mpd?sig=1904a7af564695aa23eb1e444b80facf&ext_start_limit=1759507865&int_start_limit=1759507865&ts=1759507865&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCLM_hevc/__op/cenc_m/__f/index.mpd?sig=e3058edc5e1533eee9b6c517a8c7ef22&ext_start_limit=1759594266&int_start_limit=1759594266&ts=1759594266&c=121779152
 #EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•影視娛樂",亞洲劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVS_hevc/__op/cenc_m/__f/index.mpd?sig=70c8a7dd33d80e25c5aadeb6390b4f49&ext_start_limit=1759507865&int_start_limit=1759507865&ts=1759507865&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVS_hevc/__op/cenc_m/__f/index.mpd?sig=dc1d40fa9c74f499b5ec7f690eda3597&ext_start_limit=1759594267&int_start_limit=1759594267&ts=1759594267&c=121779152
 #EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://epg.iill.top/logo/黄金华剧.png" group-title="•影視娛樂",黃金華劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_TVO_hevc/__op/cenc_m/__f/index.mpd?sig=fd66d404da756e14861d185cb8d71fdf&ext_start_limit=1759507866&int_start_limit=1759507866&ts=1759507866&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_TVO_hevc/__op/cenc_m/__f/index.mpd?sig=b909f126b89cf9846eabc960df573b63&ext_start_limit=1759594267&int_start_limit=1759594267&ts=1759594267&c=121779152
 #EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•影視娛樂",戲曲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCOC_hevc/__op/cenc_m/__f/index.mpd?sig=e14e4ef3f25fee1b02b2f89b9c094b41&ext_start_limit=1759507866&int_start_limit=1759507866&ts=1759507866&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCOC_hevc/__op/cenc_m/__f/index.mpd?sig=0b3288e633ec2a05e3cd860b8680c6ea&ext_start_limit=1759594268&int_start_limit=1759594268&ts=1759594268&c=121779152
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://epg.iill.top/logo/美亞電影台.png" group-title="•影視娛樂",美亞電影台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CMAM_hevc/__op/cenc_m/__f/index.mpd?sig=7daa3ee2d3c89bf44d4eb81425e73747&ext_start_limit=1759507866&int_start_limit=1759507866&ts=1759507866&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CMAM_hevc/__op/cenc_m/__f/index.mpd?sig=b060c674bd491396e0dc96add7ee3d9d&ext_start_limit=1759594269&int_start_limit=1759594269&ts=1759594269&c=121779152
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://epg.iill.top/logo/Thrill.png" group-title="•影視娛樂",Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTHR_hevc/__op/cenc_m/__f/index.mpd?sig=c067e6cdd4e67995cd552fc5d62c8710&ext_start_limit=1759507867&int_start_limit=1759507867&ts=1759507867&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTHR_hevc/__op/cenc_m/__f/index.mpd?sig=672025f5e5bc48ce9a328849c2f5e1ca&ext_start_limit=1759594269&int_start_limit=1759594269&ts=1759594269&c=121779152
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://epg.iill.top/logo/天映经典.png" group-title="•影視娛樂",天映經典頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCCM_hevc/__op/cenc_m/__f/index.mpd?sig=11376be11a8777458bf6e082d9e8949f&ext_start_limit=1759507867&int_start_limit=1759507867&ts=1759507867&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCCM_hevc/__op/cenc_m/__f/index.mpd?sig=9234e484ee98d9808441fc9410f42f5a&ext_start_limit=1759594270&int_start_limit=1759594270&ts=1759594270&c=121779152
 #EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://epg.iill.top/logo/ChinaMovie.png" group-title="•影視娛樂",中國電影頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMC_hevc/__op/cenc_m/__f/index.mpd?sig=c4d73d33b58fb99b3f9e0652ce98f52d&ext_start_limit=1759507868&int_start_limit=1759507868&ts=1759507868&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMC_hevc/__op/cenc_m/__f/index.mpd?sig=9eef18f11974c4afc93b9c47b44c07a4&ext_start_limit=1759594270&int_start_limit=1759594270&ts=1759594270&c=121779152
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.iill.top/logo/RockAction.png" group-title="•影視娛樂",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CRTX_hevc/__op/cenc_m/__f/index.mpd?sig=ba69729079579ef1d27bf7d541d43a90&ext_start_limit=1759507868&int_start_limit=1759507868&ts=1759507868&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CRTX_hevc/__op/cenc_m/__f/index.mpd?sig=b630a40cb94698a4d92d509ccbd4047c&ext_start_limit=1759594271&int_start_limit=1759594271&ts=1759594271&c=121779152
 #EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="https://epg.iill.top/logo/RockExtreme.png" group-title="•影視娛樂",ROCK Extreme
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_RKEX_hevc/__op/cenc_m/__f/index.mpd?sig=ee83fa28ff8f09f0a730ed5157c90026&ext_start_limit=1759507869&int_start_limit=1759507869&ts=1759507869&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_RKEX_hevc/__op/cenc_m/__f/index.mpd?sig=00680e080b5e78cd1a0d3e2eb7d419bf&ext_start_limit=1759594271&int_start_limit=1759594271&ts=1759594271&c=121779152
 #EXTINF:-1 tvg-id="ROCK綜藝娛樂" tvg-name="ROCK綜藝娛樂" tvg-logo="https://epg.iill.top/logo/RockEntertainment.png" group-title="•影視娛樂",ROCK 綜藝娛樂
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CRTE_hevc/__op/cenc_m/__f/index.mpd?sig=01780ba42ebe39ad4a0db05110e3792f&ext_start_limit=1759507869&int_start_limit=1759507869&ts=1759507869&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CRTE_hevc/__op/cenc_m/__f/index.mpd?sig=bdcb9a7206fec61b05622bcb96d7f344&ext_start_limit=1759594272&int_start_limit=1759594272&ts=1759594272&c=121779152
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://epg.iill.top/logo/Kix.png" group-title="•影視娛樂",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CKIX_hevc/__op/cenc_m/__f/index.mpd?sig=c966a727cb36c5660b4dd255fab0f406&ext_start_limit=1759507869&int_start_limit=1759507869&ts=1759507869&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CKIX_hevc/__op/cenc_m/__f/index.mpd?sig=164b59d7d1461e8b9e60fa6ce78d37ac&ext_start_limit=1759594272&int_start_limit=1759594272&ts=1759594272&c=121779152
 #EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://epg.iill.top/logo/LoveNature.png" group-title="•國際頻道",Love Nature
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_LNH_hevc/__op/cenc_m/__f/index.mpd?sig=7392eb4766eb026d3c008e78c1571408&ext_start_limit=1759507870&int_start_limit=1759507870&ts=1759507870&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LNH_hevc/__op/cenc_m/__f/index.mpd?sig=0169ffba37bccf1ddd3bfd99235bff0e&ext_start_limit=1759594273&int_start_limit=1759594273&ts=1759594273&c=121779152
 #EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="•國際頻道",Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LN4_hevc/__op/cenc_m/__f/index.mpd?sig=9d1358d84b3568ece3c95b68408146c5&ext_start_limit=1759507870&int_start_limit=1759507870&ts=1759507870&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_LN4_hevc/__op/cenc_m/__f/index.mpd?sig=2449fb916b0f8cacd1e3d54695a521c6&ext_start_limit=1759594274&int_start_limit=1759594274&ts=1759594274&c=121779152
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://epg.iill.top/logo/GlobalTrekker.png" group-title="•國際頻道",Global Trekker
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_SMS_hevc/__op/cenc_m/__f/index.mpd?sig=ecacc3134b077aa7991781817d945393&ext_start_limit=1759507870&int_start_limit=1759507870&ts=1759507870&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_SMS_hevc/__op/cenc_m/__f/index.mpd?sig=3b1d84949df46c55282233447e1559cc&ext_start_limit=1759594274&int_start_limit=1759594274&ts=1759594274&c=121779152
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.iill.top/logo/AXN.png" group-title="•影視娛樂",AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CAXN_hevc/__op/cenc_m/__f/index.mpd?sig=3ed7c3f2229b1ab667e31f69272c513f&ext_start_limit=1759507871&int_start_limit=1759507871&ts=1759507871&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CAXN_hevc/__op/cenc_m/__f/index.mpd?sig=ee3b5ce585168c5b8fd5d37add00eaa8&ext_start_limit=1759594275&int_start_limit=1759594275&ts=1759594275&c=121779152
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://epg.iill.top/logo/Animax.png" group-title="•影視娛樂",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CANI_hevc/__op/cenc_m/__f/index.mpd?sig=55ddc7eebcd39e08132d6fbb51e69793&ext_start_limit=1759507871&int_start_limit=1759507871&ts=1759507871&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CANI_hevc/__op/cenc_m/__f/index.mpd?sig=61af0f22e1bb06d4c4369fa18d6825cb&ext_start_limit=1759594275&int_start_limit=1759594275&ts=1759594275&c=121779152
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://epg.iill.top/logo/tvN.png" group-title="•影視娛樂",tvN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CJTV_hevc/__op/cenc_m/__f/index.mpd?sig=518fddcb9929974bf9fdb5d87a373d94&ext_start_limit=1759507872&int_start_limit=1759507872&ts=1759507872&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CJTV_hevc/__op/cenc_m/__f/index.mpd?sig=4d19183fb6e54e71a7985a96ba3f3a6e&ext_start_limit=1759594276&int_start_limit=1759594276&ts=1759594276&c=121779152
 #EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://epg.iill.top/logo/TVBS亚洲.png" group-title="•新聞財經",無線衛星亞洲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTS1_hevc/__op/cenc_m/__f/index.mpd?sig=41a1243dd866e5b68ad2efef3eeb6225&ext_start_limit=1759507872&int_start_limit=1759507872&ts=1759507872&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTS1_hevc/__op/cenc_m/__f/index.mpd?sig=ef0f8be155419ec79ab9622f92a1fec6&ext_start_limit=1759594276&int_start_limit=1759594276&ts=1759594276&c=121779152
 #EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://epg.iill.top/logo/创世电视.png" group-title="•新聞財經",創世電視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=715e11647d69318902252270db7873b4&ext_start_limit=1759507872&int_start_limit=1759507872&ts=1759507872&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=40f0beebaa0c68ccbd209b4648802fbe&ext_start_limit=1759594277&int_start_limit=1759594277&ts=1759594277&c=121779152
 #EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://epg.iill.top/logo/FashionBox.png" group-title="•國際頻道",FashionBox
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_FBX_hevc/__op/cenc_m/__f/index.mpd?sig=031935a905621949a8491f868994f15f&ext_start_limit=1759507873&int_start_limit=1759507873&ts=1759507873&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_FBX_hevc/__op/cenc_m/__f/index.mpd?sig=3bc3583f03ed6c637e3c555580c838c3&ext_start_limit=1759594277&int_start_limit=1759594277&ts=1759594277&c=121779152
 #EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://epg.iill.top/logo/MezzoLive.png" group-title="•國際頻道",Mezzo Live HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CMEZ_hevc/__op/cenc_m/__f/index.mpd?sig=7c3426fe9bb2b584115754ea1b35d379&ext_start_limit=1759507873&int_start_limit=1759507873&ts=1759507873&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CMEZ_hevc/__op/cenc_m/__f/index.mpd?sig=c531b1bf06aa8e77d8cb2b3950c47a9f&ext_start_limit=1759594278&int_start_limit=1759594278&ts=1759594278&c=121779152
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.iill.top/logo/PopC.png" group-title="•影視娛樂",PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_POPC_hevc/__op/cenc_m/__f/index.mpd?sig=bba235a1b3e3f3a015dbe9422ccd1809&ext_start_limit=1759507874&int_start_limit=1759507874&ts=1759507874&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_POPC_hevc/__op/cenc_m/__f/index.mpd?sig=fc24ebd0526bb76070a639343865345a&ext_start_limit=1759594278&int_start_limit=1759594278&ts=1759594278&c=121779152
 #EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="•新聞財經",無線衛星新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTSN_hevc/__op/cenc_m/__f/index.mpd?sig=b13fa6ff0c94d4033361b911bd1763a7&ext_start_limit=1759507874&int_start_limit=1759507874&ts=1759507874&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTSN_hevc/__op/cenc_m/__f/index.mpd?sig=f9e6786c10979ddbf85ba5d185850c71&ext_start_limit=1759594279&int_start_limit=1759594279&ts=1759594279&c=121779152
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.iill.top/logo/CNA.png" group-title="•新聞財經",亞洲新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CCNA_hevc/__op/cenc_m/__f/index.mpd?sig=6e9a72835067aa6ce2f96f74730346fd&ext_start_limit=1759507875&int_start_limit=1759507875&ts=1759507875&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CCNA_hevc/__op/cenc_m/__f/index.mpd?sig=cfa088c521d259a020db3faa21b8959d&ext_start_limit=1759594280&int_start_limit=1759594280&ts=1759594280&c=121779152
 #EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://epg.iill.top/logo/半岛电视台.png" group-title="•新聞財經",半島電視台英語頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80c76105d3ae35dfe25f939d1fb83383:6d76e7ba039773bced47d78e6de4fcf0
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CJAZ_hevc/__op/cenc_m/__f/index.mpd?sig=be3b17bf36daea430aafbc7ac61c449e&ext_start_limit=1759507875&int_start_limit=1759507875&ts=1759507875&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CJAZ_hevc/__op/cenc_m/__f/index.mpd?sig=923054ab420688b32be65a685d0132eb&ext_start_limit=1759594280&int_start_limit=1759594280&ts=1759594280&c=121779152
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://epg.iill.top/logo/FRANCE24.png" group-title="•新聞財經",France 24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CF24_hevc/__op/cenc_m/__f/index.mpd?sig=487904662b500e365a1a2ac50549353a&ext_start_limit=1759507876&int_start_limit=1759507876&ts=1759507876&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CF24_hevc/__op/cenc_m/__f/index.mpd?sig=b0eddef10dec2b8d103ce91dc12dcc4d&ext_start_limit=1759594280&int_start_limit=1759594280&ts=1759594280&c=121779152
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.iill.top/logo/DW.png" group-title="•新聞財經",DW
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CDW1_hevc/__op/cenc_m/__f/index.mpd?sig=f376c1b503f31fb4891ec52fb1c1670b&ext_start_limit=1759507876&int_start_limit=1759507876&ts=1759507876&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CDW1_hevc/__op/cenc_m/__f/index.mpd?sig=3b4451e7616e6e9343c42dfabc3fe423&ext_start_limit=1759594281&int_start_limit=1759594281&ts=1759594281&c=121779152
 #EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://epg.iill.top/logo/NHKWORLD.png" group-title="•新聞財經",NHK World-Japan
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CNHK_hevc/__op/cenc_m/__f/index.mpd?sig=a68972f9deabee8c3733aadfabed3858&ext_start_limit=1759507876&int_start_limit=1759507876&ts=1759507876&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CNHK_hevc/__op/cenc_m/__f/index.mpd?sig=3c48e02eb0dc107b37c8dd5219a210c7&ext_start_limit=1759594281&int_start_limit=1759594281&ts=1759594281&c=121779152
 #EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV" tvg-logo="https://epg.iill.top/logo/Arirang.png" group-title="•國際頻道",Arirang TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CARI_hevc/__op/cenc_m/__f/index.mpd?sig=33fb85b153020f42b2ba5917ed6cdbcb&ext_start_limit=1759507877&int_start_limit=1759507877&ts=1759507877&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CARI_hevc/__op/cenc_m/__f/index.mpd?sig=63cf470c5151a753afbdb3e19fe40d77&ext_start_limit=1759594282&int_start_limit=1759594282&ts=1759594282&c=121779152
 #EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",SUPER Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SSPT_hevc/__op/cenc_m/__f/index.mpd?sig=c171060a9030daf368f50b457f1b4fff&ext_start_limit=1759507877&int_start_limit=1759507877&ts=1759507877&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SSPT_hevc/__op/cenc_m/__f/index.mpd?sig=46739e07e037ef854c111c28cc4dd0de&ext_start_limit=1759594283&int_start_limit=1759594283&ts=1759594283&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 18台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C18_hevc/__op/cenc_m/__f/index.mpd?sig=68ee1d2a92e2df3d0c634b9adf9ad839&ext_start_limit=1759507878&int_start_limit=1759507878&ts=1759507878&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C18_hevc/__op/cenc_m/__f/index.mpd?sig=d5827cceac636236dc6631285e48953a&ext_start_limit=1759594283&int_start_limit=1759594283&ts=1759594283&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球2台" tvg-name="myTV SUPER直播足球2台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 直播足球2台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=024f2733fb9afad23490149c601ce47c:034db34d56263c79c7f41448f2a6cfc1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT2_hevc/__op/cenc_m/__f/index.mpd?sig=5da8b01f47e3d393dd49d61b97cb8597&ext_start_limit=1759507878&int_start_limit=1759507878&ts=1759507878&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT2_hevc/__op/cenc_m/__f/index.mpd?sig=4e85e96a7ed3d49c5e720bb6157946f0&ext_start_limit=1759594284&int_start_limit=1759594284&ts=1759594284&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球3台" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 直播足球3台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT3_hevc/__op/cenc_m/__f/index.mpd?sig=1a5ed447dc222f28786f112c598db292&ext_start_limit=1759507879&int_start_limit=1759507879&ts=1759507879&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT3_hevc/__op/cenc_m/__f/index.mpd?sig=fc20a75b5739c76f9bc1bd993fac17dd&ext_start_limit=1759594285&int_start_limit=1759594285&ts=1759594285&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球4台" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER直播足球4台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT4_hevc/__op/cenc_m/__f/index.mpd?sig=5d017cd490978ca5d87c9f621acf7561&ext_start_limit=1759507879&int_start_limit=1759507879&ts=1759507879&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT4_hevc/__op/cenc_m/__f/index.mpd?sig=b329caa980a672c0db8e07a17c4dc648&ext_start_limit=1759594285&int_start_limit=1759594285&ts=1759594285&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球5台" tvg-name="myTV SUPER直播足球5台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 直播足球5台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT5_hevc/__op/cenc_m/__f/index.mpd?sig=9b5367182ff0bb929c59691f23730799&ext_start_limit=1759507879&int_start_limit=1759507879&ts=1759507879&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT5_hevc/__op/cenc_m/__f/index.mpd?sig=22cbf00c805334ed2559659968244b25&ext_start_limit=1759594286&int_start_limit=1759594286&ts=1759594286&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球6台" tvg-name="myTV SUPER直播足球6台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 直播足球6台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT6_hevc/__op/cenc_m/__f/index.mpd?sig=65dd415013dc86f2909687ad46642c7e&ext_start_limit=1759507880&int_start_limit=1759507880&ts=1759507880&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT6_hevc/__op/cenc_m/__f/index.mpd?sig=357c269f7403f35e645498b6e398e8ed&ext_start_limit=1759594286&int_start_limit=1759594286&ts=1759594286&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球7台" tvg-name="myTV SUPER直播足球7台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 直播足球7台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a81a757b16a3d431d4365d81f07f07:292f2fdc2002e8346cd2c18af4a3a4bc
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT7_hevc/__op/cenc_m/__f/index.mpd?sig=ac3886475c5223d7eab44ad564faf1bf&ext_start_limit=1759507880&int_start_limit=1759507880&ts=1759507880&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT7_hevc/__op/cenc_m/__f/index.mpd?sig=e8b6ca6caea360b1dd5ca2c40711614f&ext_start_limit=1759594287&int_start_limit=1759594287&ts=1759594287&c=121779152
 #EXTINF:-1 tvg-id="互動窗 1" tvg-name="互動窗 1" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",互動窗 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C3_hevc/__op/cenc_m/__f/index.mpd?sig=7d24ae5c5484cd1bd72a182107a820ee&ext_start_limit=1759507880&int_start_limit=1759507880&ts=1759507880&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C3_hevc/__op/cenc_m/__f/index.mpd?sig=51900d033d902495044bea94a755d6cb&ext_start_limit=1759594287&int_start_limit=1759594287&ts=1759594287&c=121779152
 #EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",互動窗 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=a183126928b44be44ed2dd2f6e440de3&ext_start_limit=1759507881&int_start_limit=1759507881&ts=1759507881&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=da67ce09c0c0f8626cf96f364f31debd&ext_start_limit=1759594288&int_start_limit=1759594288&ts=1759594288&c=121779152
 #EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://epg.iill.top/logo/SUPERKidsChannel.png" group-title="•少兒天地",SUPER Kids Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_KID_hevc/__op/cenc_m/__f/index.mpd?sig=e5b8eab547ebbc8952a478eb120172c8&ext_start_limit=1759507881&int_start_limit=1759507881&ts=1759507881&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_KID_hevc/__op/cenc_m/__f/index.mpd?sig=6d490465c7c4b2b7afc2aee9a9ce18b7&ext_start_limit=1759594289&int_start_limit=1759594289&ts=1759594289&c=121779152
 #EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://epg.iill.top/logo/ZooMoo.png" group-title="•少兒天地",ZooMoo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_ZOO_hevc/__op/cenc_m/__f/index.mpd?sig=dceda005f7f10f99d5612825571bd1fc&ext_start_limit=1759507882&int_start_limit=1759507882&ts=1759507882&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_ZOO_hevc/__op/cenc_m/__f/index.mpd?sig=b10225bacc96c72ffc6afd49c9749cb1&ext_start_limit=1759594290&int_start_limit=1759594290&ts=1759594290&c=121779152
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://epg.iill.top/logo/Nickelodeon.png" group-title="•少兒天地",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CNIKO_hevc/__op/cenc_m/__f/index.mpd?sig=4ce3bc693ef6e2396058eefbb9052cc6&ext_start_limit=1759507882&int_start_limit=1759507882&ts=1759507882&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CNIKO_hevc/__op/cenc_m/__f/index.mpd?sig=3c5bb08d7ff4aef626bbad3b5d97e25d&ext_start_limit=1759594290&int_start_limit=1759594290&ts=1759594290&c=121779152
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://epg.iill.top/logo/Nickjr.png" group-title="•少兒天地",Nick Jr.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CNIJR_hevc/__op/cenc_m/__f/index.mpd?sig=d3e14a00b2dcbb755044b369b546ec3e&ext_start_limit=1759507883&int_start_limit=1759507883&ts=1759507883&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CNIJR_hevc/__op/cenc_m/__f/index.mpd?sig=d6ca20def994c82a7056e526caa320ba&ext_start_limit=1759594291&int_start_limit=1759594291&ts=1759594291&c=121779152
 #EXTINF:-1 tvg-id="SUPER獎門人" tvg-name="SUPER獎門人" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 獎門人
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SVAR_hevc/__op/cenc_m/__f/index.mpd?sig=6ee07ca46ff3ea9d5a33449eaf909c2b&ext_start_limit=1759507883&int_start_limit=1759507883&ts=1759507883&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SVAR_hevc/__op/cenc_m/__f/index.mpd?sig=f4e641172feceeb588795890e724d682&ext_start_limit=1759594291&int_start_limit=1759594291&ts=1759594291&c=121779152
 #EXTINF:-1 tvg-id="SUPER EYT" tvg-name="SUPER EYT" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER EYT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SEYT_hevc/__op/cenc_m/__f/index.mpd?sig=0884a112f2c9ec4674c23e4d3b5588eb&ext_start_limit=1759507883&int_start_limit=1759507883&ts=1759507883&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SEYT_hevc/__op/cenc_m/__f/index.mpd?sig=63122e8f95292effa356211f1197c001&ext_start_limit=1759594292&int_start_limit=1759594292&ts=1759594292&c=121779152
 #EXTINF:-1 tvg-id="SUPER識食" tvg-name="SUPER識食" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 識食
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SFOO_hevc/__op/cenc_m/__f/index.mpd?sig=576c5cab4cfdcc0a843647cc22185e8e&ext_start_limit=1759507884&int_start_limit=1759507884&ts=1759507884&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SFOO_hevc/__op/cenc_m/__f/index.mpd?sig=6275ab90c8a78f15b9376235460dd94d&ext_start_limit=1759594292&int_start_limit=1759594292&ts=1759594292&c=121779152
 #EXTINF:-1 tvg-id="SUPER識嘆" tvg-name="SUPER識嘆" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 識嘆
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_STRA_hevc/__op/cenc_m/__f/index.mpd?sig=f45ba5e6f7eeca1a5fa5eb8ebea7def6&ext_start_limit=1759507884&int_start_limit=1759507884&ts=1759507884&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_STRA_hevc/__op/cenc_m/__f/index.mpd?sig=6805d3da0f369c262a2f5acce6f7bc69&ext_start_limit=1759594293&int_start_limit=1759594293&ts=1759594293&c=121779152
 #EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPER Music" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SMUS_hevc/__op/cenc_m/__f/index.mpd?sig=614f9b4f26e582a41434a0e274500c19&ext_start_limit=1759507885&int_start_limit=1759507885&ts=1759507885&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SMUS_hevc/__op/cenc_m/__f/index.mpd?sig=0ced717e7e75fa84486bb7b8ccb81bc5&ext_start_limit=1759594293&int_start_limit=1759594293&ts=1759594293&c=121779152
 #EXTINF:-1 tvg-id="SUPER金曲" tvg-name="SUPER金曲" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 金曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SGOL_hevc/__op/cenc_m/__f/index.mpd?sig=d6fa2cf35771632623eb9bdf43c14f82&ext_start_limit=1759507885&int_start_limit=1759507885&ts=1759507885&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SGOL_hevc/__op/cenc_m/__f/index.mpd?sig=44ce1cf4ec0357ac1be2bdaaedfbba2e&ext_start_limit=1759594294&int_start_limit=1759594294&ts=1759594294&c=121779152
 #EXTINF:-1 tvg-id="SUPER煲劇" tvg-name="SUPER煲劇" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 煲劇
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SSIT_hevc/__op/cenc_m/__f/index.mpd?sig=6a227d4445892669dab30b95edb9b39d&ext_start_limit=1759507885&int_start_limit=1759507885&ts=1759507885&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SSIT_hevc/__op/cenc_m/__f/index.mpd?sig=ec7558d4be04763c7576db6c072332b4&ext_start_limit=1759594294&int_start_limit=1759594294&ts=1759594294&c=121779152
 #EXTINF:-1 tvg-id="SUPER單元劇" tvg-name="SUPER單元劇" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 單元劇
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_STVM_hevc/__op/cenc_m/__f/index.mpd?sig=5ba5e7cf584be5a558380e153b06a8d3&ext_start_limit=1759507886&int_start_limit=1759507886&ts=1759507886&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_STVM_hevc/__op/cenc_m/__f/index.mpd?sig=48c254d3c07829c11701dc42befd5dee&ext_start_limit=1759594295&int_start_limit=1759594295&ts=1759594295&c=121779152
 #EXTINF:-1 tvg-id="真情SUPER煲" tvg-name="真情SUPER煲" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",真情SUPER煲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SDOC_hevc/__op/cenc_m/__f/index.mpd?sig=5cb91fb1b9de8c4ba993035ca28c3ef6&ext_start_limit=1759507886&int_start_limit=1759507886&ts=1759507886&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SDOC_hevc/__op/cenc_m/__f/index.mpd?sig=c4e9d6ab25df269b6c36868eb7def51c&ext_start_limit=1759594295&int_start_limit=1759594295&ts=1759594295&c=121779152
 #EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•CCTV系列",中央電視台 綜合頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=b839c1fbe4a388a95d416ac8400cb1c8&ext_start_limit=1759507886&int_start_limit=1759507886&ts=1759507886&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=8cb49a6cec844b53c972487a4df1739a&ext_start_limit=1759594295&int_start_limit=1759594295&ts=1759594295&c=121779152
 #EXTINF:-1 tvg-id="中國中央電視台中文國際頻道" tvg-name="中國中央電視台中文國際頻道" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•CCTV系列",中央電視台 中文國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b2762e6912e2f37a1cad1df9af6dc6e:f4edc1240a3e852661c0607db463a6dd
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CC4_h264_1.stream/manifest.mpd?sig=52696e123f074e483d5233219ff98ad2&ext_start_limit=1759507887&int_start_limit=1759507887&ts=1759507887&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CC4_h264_1.stream/manifest.mpd?sig=0c4db7f9d9aa452904da526a787b6ee5&ext_start_limit=1759594296&int_start_limit=1759594296&ts=1759594296&c=121779152
 #EXTINF:-1 tvg-id="中國中央電視台娛樂頻道" tvg-name="中國中央電視台娛樂頻道" tvg-logo="https://epg.iill.top/logo/CCTV娱乐.png" group-title="•CCTV系列",中央電視台 娛樂頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e173591f7ab25dbc47f6c05abcbb92c7:21c5e4987d1e255d0e171280ad13d815
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CCE_h264_1.stream/manifest.mpd?sig=7da3d0adcf4fc2b2dd65a9457b766bbb&ext_start_limit=1759507887&int_start_limit=1759507887&ts=1759507887&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_CCE_h264_1.stream/manifest.mpd?sig=dde350c3dc860f0ef0ec92f463a6a9ba&ext_start_limit=1759594296&int_start_limit=1759594296&ts=1759594296&c=121779152
 #EXTINF:-1 tvg-id="中國中央電視台戲曲頻道" tvg-name="中國中央電視台戲曲頻道" tvg-logo="https://epg.iill.top/logo/CCTV戏曲.png" group-title="•CCTV系列",中央電視台 戲曲頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=310ee76e894b8361fefdedf5c7b50983:f113fcca4a982e53ba2fc31e7fbf6e2c
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CCO_h264_1.stream/manifest.mpd?sig=22da0f4b89ff2da8093df7c0650d9852&ext_start_limit=1759507888&int_start_limit=1759507888&ts=1759507888&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_CCO_h264_1.stream/manifest.mpd?sig=35e72f561f4812b7bd5bd21e8916dfe4&ext_start_limit=1759594297&int_start_limit=1759594297&ts=1759594297&c=121779152
 #EXTINF:-1 tvg-id="CGTN (中國環球電視網)記錄頻道" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://epg.iill.top/logo/CGTN纪录.png" group-title="•CCTV系列",CGTN 記錄頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=4eb87aeed98964844782e86a515265fe&ext_start_limit=1759507888&int_start_limit=1759507888&ts=1759507888&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=d5d27a0ab3b55dfa832792f50fea6559&ext_start_limit=1759594297&int_start_limit=1759594297&ts=1759594297&c=121779152
 #EXTINF:-1 tvg-id="CGTN (中國環球電視網)英語頻道" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://epg.iill.top/logo/CGTN.png" group-title="•CCTV系列",CGTN 英語頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CGE_hevc/__op/cenc_m/__f/index.mpd?sig=e0b132374f1eaca18f86c7b3c7685830&ext_start_limit=1759507889&int_start_limit=1759507889&ts=1759507889&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CGE_hevc/__op/cenc_m/__f/index.mpd?sig=cb03532f2a3a2e5ddcaff28577dbb251&ext_start_limit=1759594298&int_start_limit=1759594298&ts=1759594298&c=121779152
 #EXTINF:-1 tvg-id="雲南瀾湄國際衛視" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://epg.iill.top/logo/澜湄国际.png" group-title="•省級衛視",雲南瀾湄國際衛視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_YNTV_h264_1.stream/manifest.mpd?sig=4047e0515ed0ccd131d55d9c14ee4712&ext_start_limit=1759507889&int_start_limit=1759507889&ts=1759507889&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_YNTV_h264_1.stream/manifest.mpd?sig=417031b97172bb5c0b2bfaf61f07de1e&ext_start_limit=1759594299&int_start_limit=1759594299&ts=1759594299&c=121779152
 #EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="•省級衛視",東方衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_DTV_hevc/__op/cenc_m/__f/index.mpd?sig=1790eb0a79413dbd3f432b1dd58e699a&ext_start_limit=1759507890&int_start_limit=1759507890&ts=1759507890&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_DTV_hevc/__op/cenc_m/__f/index.mpd?sig=a3343337df5b9bb9c53fc3b238609933&ext_start_limit=1759594299&int_start_limit=1759594299&ts=1759594299&c=121779152
 #EXTINF:-1 tvg-id="安徽廣播電視台國際頻道" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://epg.iill.top/logo/安徽卫视.png" group-title="•省級衛視",安徽廣播電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_AHTV_h264_1.stream/manifest.mpd?sig=9c7a62774544817a8aef0539b16cf68a&ext_start_limit=1759507890&int_start_limit=1759507890&ts=1759507890&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_AHTV_h264_1.stream/manifest.mpd?sig=c104564c6454c73eab58015552981568&ext_start_limit=1759594300&int_start_limit=1759594300&ts=1759594300&c=121779152
 #EXTINF:-1 tvg-id="北京電視台國際頻道" tvg-name="北京電視台國際頻道" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="•省級衛視",北京電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_BJTV_h264_1.stream/manifest.mpd?sig=694b453830d8431b6f630a5b52fd6cdf&ext_start_limit=1759507890&int_start_limit=1759507890&ts=1759507890&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_BJTV_h264_1.stream/manifest.mpd?sig=032865734fa432edfeda68c765742260&ext_start_limit=1759594300&int_start_limit=1759594300&ts=1759594300&c=121779152
 #EXTINF:-1 tvg-id="廣西電視台國際頻道" tvg-name="廣西電視台國際頻道" tvg-logo="https://epg.iill.top/logo/广西卫视.png" group-title="•省級衛視",廣西電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_GXTV_h264_1.stream/manifest.mpd?sig=de2076aa42e5c6e13b4794b792aa1ab5&ext_start_limit=1759507891&int_start_limit=1759507891&ts=1759507891&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_GXTV_h264_1.stream/manifest.mpd?sig=a39902ac00d04ec6958016e384014547&ext_start_limit=1759594301&int_start_limit=1759594301&ts=1759594301&c=121779152
 #EXTINF:-1 tvg-id="福建海峽衛視國際頻道" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://epg.iill.top/logo/海峡卫视.png" group-title="•省級衛視",福建海峽衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_FJTV_h264_1.stream/manifest.mpd?sig=f268eff99dbb4752528c8d8d4f81242a&ext_start_limit=1759507891&int_start_limit=1759507891&ts=1759507891&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_FJTV_h264_1.stream/manifest.mpd?sig=58a97e0e3334dd89514346c38806835a&ext_start_limit=1759594302&int_start_limit=1759594302&ts=1759594302&c=121779152
 #EXTINF:-1 tvg-id="湖南電視台國際頻道" tvg-name="湖南電視台國際頻道" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="•省級衛視",湖南電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_HNTV_h264_1.stream/manifest.mpd?sig=e00a60af58c9a6f4644fbe6d3b524c07&ext_start_limit=1759507892&int_start_limit=1759507892&ts=1759507892&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_HNTV_h264_1.stream/manifest.mpd?sig=50714e22fd8a6f9f6947859b05458129&ext_start_limit=1759594303&int_start_limit=1759594303&ts=1759594303&c=121779152
 #EXTINF:-1 tvg-id="江蘇電視台國際頻道" tvg-name="江蘇電視台國際頻道" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="•省級衛視",江蘇電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_JSTV_h264_1.stream/manifest.mpd?sig=f21f75b6af17939eeb827c1c0e6a5ae1&ext_start_limit=1759507892&int_start_limit=1759507892&ts=1759507892&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_JSTV_h264_1.stream/manifest.mpd?sig=522ed2013f0ac71fae7848d22638075c&ext_start_limit=1759594303&int_start_limit=1759594303&ts=1759594303&c=121779152
 #EXTINF:-1 tvg-id="廣東廣播電視台大灣區衛視頻道" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="•省級衛視",廣東廣播電視台大灣區衛視頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_GBTV_h264_1.stream/manifest.mpd?sig=d6cd76ee26a448fc874719606623145e&ext_start_limit=1759507893&int_start_limit=1759507893&ts=1759507893&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_GBTV_h264_1.stream/manifest.mpd?sig=ad1a73607ed8a272c45e6e9c023553da&ext_start_limit=1759594304&int_start_limit=1759594304&ts=1759594304&c=121779152
 #EXTINF:-1 tvg-id="浙江電視台國際頻道" tvg-name="浙江電視台國際頻道" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="•省級衛視",浙江電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_ZJTV_h264_1.stream/manifest.mpd?sig=a9cf0d8767afd5932caa1cca74fb979e&ext_start_limit=1759507893&int_start_limit=1759507893&ts=1759507893&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_ZJTV_h264_1.stream/manifest.mpd?sig=46955c7949118fa09b71b8f827f850a3&ext_start_limit=1759594304&int_start_limit=1759594304&ts=1759594304&c=121779152
 #EXTINF:-1 tvg-id="深圳衛視國際頻道" tvg-name="深圳衛視國際頻道" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="•省級衛視",深圳衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_SZTV_h264_1.stream/manifest.mpd?sig=f7c30016e02d9362388df43743cdca1e&ext_start_limit=1759507893&int_start_limit=1759507893&ts=1759507893&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_SZTV_h264_1.stream/manifest.mpd?sig=aad2b44d707099df8d2b42787a5560fa&ext_start_limit=1759594305&int_start_limit=1759594305&ts=1759594305&c=121779152
 #EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://epg.iill.top/logo/ActionHollywoodMovies.png" group-title="•影視娛樂",Action Hollywood Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
