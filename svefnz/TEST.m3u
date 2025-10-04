@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="汕头",汕头综合
+http://14.19.178.81:4022/rtp/239.253.43.45:5146
+#EXTINF:-1 tvg-name="汕头生活" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="汕头",汕头生活
+http://14.19.178.81:4022/rtp/239.253.43.46:5146
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视高清",CCTV-1 综合
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视高清",CCTV-2 财经
